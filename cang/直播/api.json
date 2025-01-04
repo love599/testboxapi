@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "Alllive",
-            "name": "‍聚合｜直播‍",
+            "name": "聚合｜直播‍",
             "type": 3,
             "api": "csp_Wexalllive",
             "searchable": 1,
@@ -154,9 +154,16 @@
     ],
     "lives": [
         {
-            "name": "直播",
+            "name": "电视Live",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "网络Live",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
             "playerType": 2,
             "timeout": 10
         },
