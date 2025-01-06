@@ -323,6 +323,14 @@
     ],
     "lives": [
         {
+            "name": "AI直播",
+            "type": 0,
+            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 1,
+            "timeout": 10
+        },
+        {
             "name": "电视Live",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
