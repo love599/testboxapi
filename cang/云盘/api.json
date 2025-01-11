@@ -303,7 +303,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://smdyo.top",
+                "site": "http://失眠的夜.top",
                 "danmu": true
             }
         },
@@ -319,7 +319,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://wp.huban.xyz",
+                "site": "http://wp.huban.xyz",
                 "danmu": true
             }
         },
@@ -489,7 +489,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "ext": "https://9877.kstore.space/Market/market.json"
         },
         {
             "key": "push_agent",

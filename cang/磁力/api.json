@@ -49,16 +49,6 @@
             }
         },
         {
-            "key": "荐片",
-            "name": "荐片｜磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "New6v",
             "name": "New6V｜磁力",
             "type": 3,
@@ -166,7 +156,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "ext": "https://9877.kstore.space/Market/market.json"
         },
         {
             "key": "push_agent",
