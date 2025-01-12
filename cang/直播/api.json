@@ -93,8 +93,8 @@
             }
         },
         {
-            "key": "检查更新",
-            "name": "检查｜更新",
+            "key": "版本信息",
+            "name": "版本｜信息",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
