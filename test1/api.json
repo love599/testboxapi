@@ -375,19 +375,6 @@
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "115",
-            "name": "WEX|115｜4K",
-            "type": 3,
-            "api": "csp_Wex115share",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            },
-            "jar": "./jars/wex.jar"
-        },
-        {
             "key": "雷鲸",
             "name": "WEX|雷鲸｜4K",
             "type": 3,
