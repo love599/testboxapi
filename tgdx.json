@@ -1,0 +1,45 @@
+{
+    "urls": [
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/tvbox/api.json",
+            "name": "聚"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/test1/api.json",
+            "name": "选"
+        },
+
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/影视/api.json",
+            "name": "影视"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/动漫/api.json",
+            "name": "动漫"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/文艺/api.json",
+            "name": "文艺"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/体育/api.json",
+            "name": "体育"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/教育/api.json",
+            "name": "教育"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/直播/api.json",
+            "name": "直播"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/磁力/api.json",
+            "name": "磁力"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/云盘/api.json",
+            "name": "云盘"
+        }
+    ]
+}
