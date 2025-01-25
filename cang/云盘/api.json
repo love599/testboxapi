@@ -226,22 +226,6 @@
             }
         },
         {
-            "key": "夸克土豆弹幕",
-            "name": "土豆｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://dcyun.cc",
-                "danmu": true
-            }
-        },
-        {
             "key": "夸克木偶弹幕",
             "name": "木偶｜4K弹幕",
             "type": 3,
@@ -253,7 +237,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://www.muoupan.top",
+                "site": "http://www.mogg.top",
                 "danmu": true
             }
         },
@@ -271,39 +255,6 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://wp.0v.fit",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克奥秘弹幕",
-            "name": "奥秘｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://vip.omii.top",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克白嫖弹幕",
-            "name": "白嫖｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://失眠的夜.top",
                 "danmu": true
             }
         },
