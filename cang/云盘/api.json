@@ -154,7 +154,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://1.95.79.193",
+                "site": "https://shandian.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -171,7 +171,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://woog.nxog.eu.org",
+                "site": "https://ouge.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -187,7 +187,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://milvdou.fun",
+                "site": "https://xiaomi.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -203,7 +203,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://tv.yydsys.top",
+                "site": "https://duoduo.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -219,7 +219,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://feimaoai.site",
+                "site": "https://labi.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -235,7 +235,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://xiaomiai.site",
+                "site": "https://zhizhen.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -268,7 +268,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://wp.0v.fit",
+                "site": "https://liuqu.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -284,7 +284,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://103.45.162.207:20720",
+                "site": "https://huban.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -300,7 +300,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://txfpan.top",
+                "site": "https://xiafan.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -511,7 +511,7 @@
             "url": "./ITV.txt",
             "epg": "http://epg.51zmt.top:8000/e.xml",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": "3",
+            "timeout": 3,
             "playerType": 2
         },
         {
