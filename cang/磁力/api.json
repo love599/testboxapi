@@ -111,6 +111,17 @@
             "ext": "./XYQHiker/电影港.json"
         },
         {
+            "key": "狐狸君",
+            "name": "狐狸君｜磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/狐狸君.json"
+        },
+        {
             "key": "布谷TV",
             "name": "布谷TV｜磁力",
             "type": 3,

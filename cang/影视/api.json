@@ -58,7 +58,7 @@
             "filterable": 1,
             "ext": {
                 "danmu": true,
-                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+                "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
             }
         },
         {
@@ -186,39 +186,11 @@
             "ext": "./JS/米兔弹幕.js"
         },
         {
-            "key": "小熊弹幕",
-            "name": "小熊｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/小熊弹幕.js"
-        },
-        {
-            "key": "巨人弹幕",
-            "name": "巨人｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/巨人弹幕.js"
-        },
-        {
             "key": "追剧弹幕",
             "name": "追剧｜弹幕",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/追剧弹幕.js"
-        },
-        {
-            "key": "梦米弹幕",
-            "name": "梦米｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/梦米弹幕.js"
-        },
-        {
-            "key": "小虎斑弹幕",
-            "name": "小虎斑｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/小虎斑弹幕.js"
         },
         {
             "key": "三六零弹幕",
@@ -276,13 +248,6 @@
             "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
         },
         {
-            "key": "吉吉短剧",
-            "name": "吉吉｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/吉吉短剧.json"
-        },
-        {
             "key": "爱我短剧",
             "name": "爱我｜短剧",
             "type": 3,
@@ -317,16 +282,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "酷影视",
-            "name": "酷影视｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
             "key": "HG影视",
@@ -388,6 +343,14 @@
             "api": "csp_Muou",
             "playerType": 2,
             "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+        },
+        {
+            "key": "油条",
+            "name": "油条｜APP",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45"
         },
         {
             "key": "时常",
@@ -640,22 +603,18 @@
             "filterable": 1
         },
         {
-            "key": "南瓜影视",
-            "name": "南瓜｜影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 1,
-            "ext": "maHR0cDovL25nLmNoYW5nbWVuZ3l1bi5jb20="
-        },
-        {
             "key": "农民影视",
             "name": "农民｜影视",
             "type": 3,
-            "api": "csp_Wwys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://m.wwgz.cn"
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/农民影视.json"
+        },
+        {
+            "key": "秀儿影视",
+            "name": "秀儿｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/秀儿影视.json"
         },
         {
             "key": "低端影视",
@@ -840,6 +799,16 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/碟调影视.js"
+        },
+        {
+            "key": "百思派",
+            "name": "百思派｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/百思派.json"
         },
         {
             "key": "电影牛",
