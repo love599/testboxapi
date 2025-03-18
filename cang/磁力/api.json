@@ -280,7 +280,7 @@
             "name": "肥羊直播",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "tv.m3u",
+            "url": "https://9877.kstore.space/Live/live.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15",
             "catchup": {
@@ -300,7 +300,7 @@
             "name": "虎牙一起看",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "huyayqk.m3u",
+            "url": "https://9877.kstore.space/Live/huyayqk.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
@@ -308,7 +308,7 @@
             "name": "斗鱼一起看",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "douyuyqk.m3u",
+            "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
@@ -316,7 +316,7 @@
             "name": "YY轮播",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "yylunbo.m3u",
+            "url": "https://9877.kstore.space/Live/yylunbo.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
