@@ -1,44 +1,44 @@
 {
     "urls": [
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/tvbox/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/tvbox/api.json",
             "name": "聚"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/test1/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/test1/api.json",
             "name": "选"
         },
 
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/影视/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/影视/api.json",
             "name": "影视"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/动漫/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/动漫/api.json",
             "name": "动漫"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/文艺/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/文艺/api.json",
             "name": "文艺"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/体育/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/体育/api.json",
             "name": "体育"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/教育/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/教育/api.json",
             "name": "教育"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/直播/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/直播/api.json",
             "name": "直播"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/磁力/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/磁力/api.json",
             "name": "磁力"
         },
         {
-            "url": "https://raw.kkgithub.com/ls125781003/testboxapi/main/cang/云盘/api.json",
+            "url": "https://gh-proxy.net/ls125781003/testboxapi/main/cang/云盘/api.json",
             "name": "云盘"
         }
     ]
