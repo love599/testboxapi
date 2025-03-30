@@ -8,7 +8,7 @@
 
         {
             "key": "配置中心",
-            "name": "XX|配置中心",
+            "name": "配置｜中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -20,20 +20,8 @@
             },
             "jar": "./jars/spider.jar"
         },
-        {
-            "key": "影视配置",
-            "name": "WEX|影视配置中心",
-            "type": 3,
-            "api": "csp_Wexconfig",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "jar": "./jars/wex.jar"
-        },
+            
+        
 
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -111,404 +99,272 @@
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./sub/初中课堂.json","cookie":""}},
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./sub/高中课堂.json","cookie":""}},
         
-        {
-            "key": "我的阿里",
-            "name": "XX|我的｜阿里",
+           {
+            "key": "AList",
+            "name": "AList｜合集",
             "type": 3,
-            "api": "csp_MyAli",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
-            },
+            "api": "csp_Alist",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
             "style": {
                 "type": "list"
             },
+            "ext": "./json/alist.json",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "我的夸克",
-            "name": "XX|我的｜夸克",
+            "key": "阿里云盘",
+            "name": "阿里｜云盘",
             "type": 3,
-            "api": "csp_MyQuark",
+            "api": "csp_PanAli",
             "searchable": 0,
-            "quickSearch": 0,
             "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
-            },
+            "changeable": 0,
             "style": {
-                "type": "list"
+                "type": "list",
+                "ratio": 1.433
             },
+            "ext": "./json/aliShare.json",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "我的UC",
-            "name": "XX|我的｜UC",
+            "key": "夸克云盘",
+            "name": "夸克｜云盘",
             "type": 3,
-            "api": "csp_MyUc",
+            "api": "csp_PanQuark",
             "searchable": 0,
-            "quickSearch": 0,
             "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
-            },
+            "changeable": 0,
             "style": {
-                "type": "list"
+                "type": "list",
+                "ratio": 1.433
             },
+            "ext": "./json/quarkShare.json",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "玩偶弹幕",
-            "name": "XX|玩偶｜4K弹幕",
+            "key": "UC",
+            "name": "UC｜云盘",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_PanUc",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/ucShare.json",
+            "jar": "./jars/spider.jar"
+        },
+        {
+            "key": "百度云盘",
+            "name": "百度｜云盘",
+            "type": 3,
+            "api": "csp_PanBaiDu",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "jar": "./jars/spider.jar"
+        }, 
+        {
+            "key": "玩偶哥哥",
+            "name": "玩偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "wogg": true,
-                "danmu": true
-            },
+            "ext": "./json/wogg.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克欧歌弹幕",
-            "name": "XX|欧哥｜4K弹幕",
+            "key": "木偶",
+            "name": "木偶｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://ouge.banye.tech:7086",
-                "danmu": true
-            },
+            "ext": "./json/mogg.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克小米弹幕",
-            "name": "XX|小米｜4K弹幕",
+            "key": "蜡笔",
+            "name": "蜡笔｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://xiaomi.banye.tech:7086",
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "夸克多多弹幕",
-            "name": "XX|多多｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://duoduo.banye.tech:7086",
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "夸克蜡笔弹幕",
-            "name": "XX|蜡笔｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://labi.banye.tech:7086",
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "夸克至臻弹幕",
-            "name": "XX|至臻｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://zhizhen.banye.tech:7086",
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "夸克木偶弹幕",
-            "name": "XX|木偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://mogg.banye.tech:7086",
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "夸克六趣弹幕",
-            "name": "XX|六趣｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://liuqu.banye.tech:7086",
-                "danmu": true
-            },
+            "ext": "./json/lb.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克下饭弹幕",
-            "name": "XX|下饭｜4K弹幕",
+            "key": "小米",
+            "name": "小米｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
+            "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://xiafan.banye.tech:7086",
-                "danmu": true
-            },
+            "changeable": 1,
+            "ext": "./json/xm.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克二小弹幕",
-            "name": "XX|二小｜4K弹幕",
+            "key": "至臻",
+            "name": "至臻｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
+            "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://erxiao.banye.tech:7086",
-                "danmu": true
-            },
+            "changeable": 1,
+            "ext": "./json/zz.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克百家弹幕",
-            "name": "XX|百家｜4K弹幕",
+            "key": "多多",
+            "name": "多多｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
+            "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://cj.jiexi.news",
-                "danmu": true
-            },
+            "changeable": 1,
+            "ext": "./json/yyds.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克叔叔弹幕",
-            "name": "XX|叔叔｜4K弹幕",
+            "key": "欧哥",
+            "name": "欧哥｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
+            "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://woss.banye.tech:7086",
-                "danmu": true
-            },
+            "changeable": 1,
+            "ext": "./json/og.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克大玩弹幕",
-            "name": "XX|大玩｜4K弹幕",
+            "key": "二小",
+            "name": "二小｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebShare",
+            "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://dawo.banye.tech:7086",
-                "danmu": true
-            },
+            "changeable": 1,
+            "ext": "./json/ex.json?",
             "jar": "./jars/spider.jar"
         },
         {
-            "key": "夸克虎斑弹幕",
-            "name": "虎斑｜4K弹幕",
+            "key": "团长",
+            "name": "团长｜4K弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_PanWebTz",
+            "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://huban.banye.tech:7086",
-                "danmu": true
-            },
+            "changeable": 1,
             "jar": "./jars/spider.jar"
         },
         {
             "key": "雷鲸",
-            "name": "WEX|雷鲸｜4K",
+            "name": "雷鲸｜4K",
             "type": 3,
-            "api": "csp_Wexleijing",
+            "api": "csp_PanWebShareCloudLJ",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1,
-            "jar": "./jars/wex.jar"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "./json/lj.json?",
+            "jar": "./jars/spider.jar"
         },
         {
-            "key": "天翼",
-            "name": "WEX|天翼｜4K",
+            "key": "概念",
+            "name": "海绵｜4K",
             "type": 3,
-            "api": "csp_Wextyso",
+            "api": "csp_PanWebShareCloudHM",
             "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/wex.jar"
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "./json/hm.json?",
+            "jar": "./jars/spider.jar"
         },
         {
-            "key": "盘他",
-            "name": "WEX|盘他｜4K‍",
+            "key": "Pan1",
+            "name": "Pan1｜4K",
             "type": 3,
-            "api": "csp_WexYDpanta",
+            "api": "csp_PanWebShareCloudHM",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1,
-            "jar": "./jars/wex.jar"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "./json/pan1.json?",
+            "jar": "./jars/spider.jar"
         },
         {
-            "key": "Emby",
-            "name": "WEX|Emby｜4K",
+            "key": "趣盘",
+            "name": "趣盘｜4K",
             "type": 3,
-            "api": "csp_Wexemby",
+            "api": "csp_PanWebQu",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/wex.jar"
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKhwqXDqcOUw6jDrMOiwphewpPCn8OmwprCpsKZwqHCp8KZwqBXwrPCk8Khw5Tlh7/phJvmj5XlkJNc5Yel5L6K5ZGxwrPlv6vop7notbTmu4DnrInDlsKawqbCmcKhwpfClcKTwqLDssOjw67DhMOfwqxXalDCoMOqw6/DssOjaWZmV8O2",
+            "jar": "./jars/spider.jar"
         },
-        
+        {
+            "key": "聚搜",
+            "name": "聚搜｜4K",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/aliyunpansearch.json",
+            "jar": "./jars/spider.jar"
+        },
         {
             "key": "push_agent",
-            "name": "XX|手机｜推送",
+            "name": "手机｜推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            },
             "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "哔哩弹幕",
-            "name": "XX|哔哩｜弹幕",
-            "type": 3,
-            "api": "csp_Bilimd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-            },
-            "timeout": 10,
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "爱看机器人",
-            "name": "机器人｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jars/spider.jar"
-        }
+        }      
 
 ],
 
