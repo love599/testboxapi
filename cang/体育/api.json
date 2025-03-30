@@ -17,41 +17,41 @@
             "key": "310直播",
             "name": "310｜直播",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "style": {
                 "type": "list"
             },
-            "ext": "./JS/310直播.js"
+            "ext": "./js/310直播.js"
         },
         {
             "key": "360吧",
             "name": "360｜直播",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "style": {
                 "type": "list"
             },
-            "ext": "./JS/360吧.js"
+            "ext": "./js/360吧.js"
         },
         {
             "key": "武享吧",
             "name": "武享吧｜格斗",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "style": {
                 "type": "list"
             },
-            "ext": "./JS/武享吧.js"
+            "ext": "./js/武享吧.js"
         },
         {
             "key": "JRKAN直播",
             "name": "JRKAN｜直播",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "style": {
                 "type": "list"
             },
-            "ext": "./JS/JRKAN直播.js"
+            "ext": "./js/JRKAN直播.js"
         },
         {
             "key": "版本信息",
@@ -70,13 +70,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
+            "changeable": 0
         }
     ],
     "doh": [
