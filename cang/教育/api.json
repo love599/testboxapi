@@ -48,7 +48,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童拼音.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -65,7 +65,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童识字.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -82,7 +82,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童英语.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -99,7 +99,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童硬笔.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -116,7 +116,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童思维.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -133,7 +133,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童口才.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -150,7 +150,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童编程.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -167,7 +167,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/儿童武术.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -184,7 +184,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/少儿教育.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -201,7 +201,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/小学课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -218,7 +218,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/初中课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -235,7 +235,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/高中课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -252,7 +252,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/外语课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -269,7 +269,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/小灯塔百科.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -286,7 +286,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/小灯塔科学.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -303,7 +303,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/小灯塔地理.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -320,7 +320,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/小灯塔国学.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -337,7 +337,7 @@
             "filterable": 1,
             "ext": {
                 "json": "./json/小灯塔人文.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
