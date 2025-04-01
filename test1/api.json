@@ -480,15 +480,6 @@
     {"name":"feiyang.douyuyqk","type":0,"url":"http://127.0.0.1:35457/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"feiyang.yylunbo","type":0,"url":"http://127.0.0.1:35457/yylunbo.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
         {
-            "name": "ITV",
-            "type": 0,
-            "url": "https://9877.kstore.space/Live/ITV.txt",
-            "epg": "http://epg.51zmt.top:8000/e.xml",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 5,
-            "playerType": 2
-        },
-        {
             "name": "AI直播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",

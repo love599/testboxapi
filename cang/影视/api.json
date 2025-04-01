@@ -104,15 +104,6 @@
             "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp8KlwqnDosKpwrDCr8KhwrA="
         },
         {
-            "key": "来看影视",
-            "name": "来看｜影视",
-            "type": 3,
-            "api": "csp_WebLK",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw6XDpcKpwp/ClF7DpsOYwqHCpcKaWsKkwpnCoMKgwq3CmsKgw5XlhrjphJjmj5XlkJPCpeWHn+S+keWRsMK05b6k6Ke26LW05ruA562Sw5DCocKlwppawpTClcKTw6vDrMOqw63DhcKYwqlXasKZwprDscOuw7PCnGZmZsKgw7A="
-        },
-        {
             "key": "一起影视",
             "name": "一起｜影视",
             "type": 3,
@@ -332,7 +323,7 @@
             "type": 3,
             "api": "csp_Muou",
             "playerType": 2,
-            "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="
+            "ext": "caHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
         },
         {
             "key": "龙虾",
@@ -1398,27 +1389,6 @@
     ],
     "lives": [
         {
-            "name": "ITV",
-            "type": 0,
-            "url": "https://9877.kstore.space/Live/ITV.txt",
-            "epg": "http://epg.51zmt.top:8000/e.xml",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 5,
-            "playerType": 2
-        },
-        {
-            "name": "肥羊直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/live.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
             "name": "AI直播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
@@ -1431,22 +1401,6 @@
             "type": 3,
             "api": "csp_Feiyang",
             "url": "https://9877.kstore.space/Live/huyayqk.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "斗鱼一起看",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "YY轮播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/yylunbo.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
