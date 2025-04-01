@@ -26,13 +26,10 @@
         {
             "key": "荐片",
             "name": "荐片｜磁力",
-            "type": 3,
             "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "type": 3,
             "playerType": 1,
-            "ext": "./json/荐片.json"
+            "ext": "http://api2.rinhome.com"
         },
         {
             "key": "修罗影视",

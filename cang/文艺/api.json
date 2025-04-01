@@ -73,13 +73,12 @@
             "ext": "https://apk-lb-json.fodexin.com##"
         },
         {
-            "key": "爱听听书",
-            "name": "爱听｜听书",
+            "key": "六月听书",
+            "name": "六月｜听书",
             "type": 3,
-            "api": "csp_BookYSTS",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
+            "playerType": "2",
+            "api": "csp_TingBook",
+            "searchable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -175,11 +174,10 @@
             "key": "戏曲多多",
             "name": "戏曲｜多多",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_AppLY",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/戏曲多多.json"
+            "filterable": 1
         },
         {
             "key": "急救教学",
@@ -192,7 +190,8 @@
             "style": {
                 "type": "rect",
                 "ratio": 3.8
-            }
+            },
+            "gridview": "0-0-4.1"
         },
         {
             "key": "版本信息",
