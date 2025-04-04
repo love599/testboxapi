@@ -148,8 +148,7 @@
             "api": "csp_AppHMDJ",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw53Dr8KUwp7CmsKlw63Dp8Kow63DsFpcUFfDrcOcw6rCoMK0U1fCi+WGtemFoeaQmOWRncKl5Yem5L2K5ZCnauW+oeiov+i2t+a8iuetksOXWlxQV8Odw5jDncOrw7PCo8Kke8KVw7LCmsK0wpnCocKqwqXCqcKZwq/CqcKwwqDDtw=="
+            "filterable": 0
         },
         {
             "key": "爱看短剧",
@@ -1461,14 +1460,14 @@
         {
             "name": "电视Live",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+            "url": "https://tv.iill.top/m3u/Gather",
             "playerType": 2,
             "timeout": 10
         },
         {
             "name": "网络Live",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
+            "url": "https://tv.iill.top/m3u/Live",
             "playerType": 2,
             "timeout": 10
         },
