@@ -7,8 +7,7 @@
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
-            "api": "csp_Living",
-            "searchable": 1
+            "api": "./py/网络直播.py"
         },
         {
             "key": "配置中心",
