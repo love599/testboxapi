@@ -133,17 +133,6 @@
             "ext": "./json/lb.json?"
         },
         {
-            "key": "小米",
-            "name": "小米｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/xm.json?"
-        },
-        {
             "key": "至臻",
             "name": "至臻｜4K弹幕",
             "type": 3,
