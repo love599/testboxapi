@@ -102,6 +102,16 @@
             }
         },
         {
+            "key": "短剧大全",
+            "name": "短剧｜大全",
+            "type": 3,
+            "api": "./js/quark.min.js",
+            "ext": "./js/短剧大全.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "玩偶哥哥",
             "name": "玩偶｜4K弹幕",
             "type": 3,
@@ -285,6 +295,21 @@
                 "ratio": 1.433
             },
             "ext": "./json/pan1.json"
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/kf.json"
         },
         {
             "key": "趣盘",
