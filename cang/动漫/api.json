@@ -44,7 +44,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://app.omofun1.top/api.php",
+                "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
                 "dataIv": "66dc309cbeeca454",
                 "deviceId": "",
