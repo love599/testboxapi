@@ -3,16 +3,16 @@
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "lives": [
     {
-      "name":"钵钵鸡(四网通用)",
-      "type":0,
-      "url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u",
-      "playerType":1
+      "name": "钵钵鸡(四网通用)",
+      "type": 0,
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u",
+      "playerType": 1
     }
   ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|小虎斑的口粮 v2.3",
+      "name": "导航|小虎斑的口粮 v2.5",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
@@ -42,6 +42,7 @@
       "playerType": 2,
       "api": "csp_Mogg",
       "ext": {
+        "tyitoken": "",
         "dutoken": "",
         "p123token": "",
         "token": "",
@@ -57,6 +58,7 @@
       "playerType": 2,
       "api": "csp_Mogg",
       "ext": {
+        "tyitoken": "",
         "dutoken": "",
         "p123token": "",
         "token": "",
@@ -64,6 +66,53 @@
         "uccookie": "",
         "site": "http://123.666291.xyz/"
       }
+    },
+    {
+      "key": "百家",
+      "name": "百家|虎斑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "site": "http://cj.jiexi.news/"
+      }
+    },
+    {
+      "key": "至臻",
+      "name": "至臻|虎斑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "site": "https://mihdr.top"
+      }
+    },
+    {
+      "key": "二小",
+      "name": "二小|虎斑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "site": "https://xhww.net"
+      }
+    },
+    {
+      "key": "蜡笔",
+      "name": "蜡笔|虎斑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "site": "http://feimaoai.site"
+      }
+    },
+    {
+      "key": "盼盼",
+      "name": "虎翼|盼盼",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_HBhaiM"
     },
     {
       "key": "短剧夸克2",
@@ -85,14 +134,20 @@
       "ext": "WH5hCFZ2WEJ1THpBeFsDTHZyak17ZlRBdFxiDntIbkN0dQpJUHECQ1h+chdRan1HaWV+UnwAXwRdfnIOeUsPTHRiYk17WG5Bd2JmTXhYUAJ3YmYNeQBxQ1hlCkhXX2VYXHIKT2xqfU5jbn1yb3YHTXR1aVBWenVEY3IDQHh2dkN0dWkKVGVlWFsHZUFXdgdecE99V1F6ZUN2XwtOeGZyBHVcagp5WGIFdVx6DHpYYgV2ZQpQVnVcQlhhBlNvalAbWnF1QVYAYU5qYWIBeFh6WWBucU9UZWYNdGJyT3h2dlldW19Tb2UOYlpbRAE="
     },
     {
-      "key": "下雨1",
-      "name": "下雨|弹幕",
+      "key": "0°",
+      "name": "0°|弹幕",
+      "type": 3,
+      "api": "csp_HBlingDu"
+    },
+    {
+      "key": "晴天",
+      "name": "晴天|弹幕",
       "type": 3,
       "api": "csp_HBgetapp",
       "ext": "eyJob3N0IjoiaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wLyIsImtleSI6IllqQXlOV1JqWkRsak1qZzVZMkppTXc9PSIsIml2IjoiWWpBeU5XUmpaRGxqTWpnNVkySmlNdz09In0="
     },
     {
-      "key,": "miaoyoing",
+      "key": "miaoying",
       "name": "秒映|弹幕",
       "type": 3,
       "api": "csp_HBgetappapi",
@@ -150,7 +205,6 @@
       "api": "csp_HB4kav",
       "playerType": 2
     },
-
     {
       "key": "奇迹",
       "name": "奇迹|弹幕",
@@ -170,10 +224,10 @@
       "name": "影坛|弹幕",
       "type": 3,
       "api": "csp_ApplvDV2",
-      "ext": "0###WH5hCFZ2WEJ1BH1CVFxmQVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
+      "ext": "0###WH5hCFZ2WEJ1BH1CUF9+QVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
     },
     {
-      "key,": "mofang",
+      "key": "mofang",
       "name": "魔人|弹幕",
       "type": 3,
       "api": "csp_HBgetapp",
@@ -261,7 +315,7 @@
       "ext": "http://v.rbotv.cn/"
     },
     {
-      "key,": "米饭2",
+      "key": "米饭2",
       "name": "米饭|弹幕",
       "type": 3,
       "api": "csp_HBgetapp",
