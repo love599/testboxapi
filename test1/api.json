@@ -12,7 +12,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|小虎斑的口粮 v2.5",
+      "name": "导航|小虎斑的口粮 v3.1",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
@@ -20,6 +20,7 @@
     {
       "key": "提醒",
       "name": "仅用作学习交流使用，请于24小时之内进行清除",
+      "api": "csp_Douban2",
       "type": 3
     },
     {
@@ -33,7 +34,7 @@
       "key": "设置",
       "name": "网弹|设置",
       "type": 3,
-      "api": "csp_HBset"
+      "api": "csp_HBconfig"
     },
     {
       "key": "网盘虎斑",
@@ -138,6 +139,18 @@
       "name": "0°|弹幕",
       "type": 3,
       "api": "csp_HBlingDu"
+    },
+    {
+      "key": "HBqwKan",
+      "name": "全网|弹幕",
+      "type": 3,
+      "api": "csp_HBqwKan"
+    },
+    {
+      "key": "csp_HBhcShun",
+      "name": "蝴蝶|弹幕",
+      "type": 3,
+      "api": "csp_HBhcShun"
     },
     {
       "key": "晴天",
