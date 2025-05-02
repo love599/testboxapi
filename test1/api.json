@@ -3,24 +3,24 @@
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "lives": [
     {
-      "name": "钵钵鸡(四网通用)",
-      "type": 0,
-      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u",
-      "playerType": 1
+      "name":"范明明",
+      "type":0,
+      "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "playerType":1
     }
   ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|小虎斑的口粮 v3.1",
+      "name": "导航|小虎斑的口粮 v3.5",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
     },
     {
       "key": "提醒",
-      "name": "仅用作学习交流使用，请于24小时之内进行清除",
       "api": "csp_Douban2",
+      "name": "仅用作学习交流使用，请于24小时之内进行清除",
       "type": 3
     },
     {
@@ -32,9 +32,15 @@
     },
     {
       "key": "设置",
-      "name": "网弹|设置",
+      "name": "网弹|新设置",
       "type": 3,
       "api": "csp_HBconfig"
+    },
+    {
+      "key": "oid设置",
+      "name": "网弹|旧设置",
+      "type": 3,
+      "api": "csp_HBset"
     },
     {
       "key": "网盘虎斑",
@@ -65,7 +71,7 @@
         "token": "",
         "cookie": "",
         "uccookie": "",
-        "site": "http://123.666291.xyz/"
+        "site": "http://666.666291.xyz/"
       }
     },
     {
@@ -127,12 +133,40 @@
       "type": 3,
       "api": "csp_HBqkDj"
     },
+   {
+      "key": "tenteng",
+      "name": "落日|自定",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/tvbox/lib/腾腾.js"
+    },
+    {
+      "key": "youyou",
+      "name": "日出|自定",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/tvbox/lib/优优.js"
+    },
+    {
+      "key": "qiqi",
+      "name": "晚霞|自定",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/tvbox/lib/奇奇.js"
+    },
+    {
+      "key": "mangmang",
+      "name": "朝阳|自定",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/tvbox/lib/茫茫.js"
+    },
     {
       "key": "馆源",
-      "name": "馆源|弹幕",
+      "name": "馆源|自定",
       "type": 3,
       "api": "csp_HB360",
-      "ext": "WH5hCFZ2WEJ1THpBeFsDTHZyak17ZlRBdFxiDntIbkN0dQpJUHECQ1h+chdRan1HaWV+UnwAXwRdfnIOeUsPTHRiYk17WG5Bd2JmTXhYUAJ3YmYNeQBxQ1hlCkhXX2VYXHIKT2xqfU5jbn1yb3YHTXR1aVBWenVEY3IDQHh2dkN0dWkKVGVlWFsHZUFXdgdecE99V1F6ZUN2XwtOeGZyBHVcagp5WGIFdVx6DHpYYgV2ZQpQVnVcQlhhBlNvalAbWnF1QVYAYU5qYWIBeFh6WWBucU9UZWYNdGJyT3h2dlldW19Tb2UOYlpbRAE="
+      "ext": "DyoqWQIrBwMuGydIIwtMES4rMQAsNQ1EIwgpXy8VMQIvIldACyFNHgAnKVoGOSRCPjE1AyhdAEUGKS8HIhtAESw7OQAsCzdEIDYtHCwFD0MsNTsEIlA+HgA8UQUADDxdCyZBHjg3Ig84OSB7NCZIECwsMh0BKSxBNCZIESwrKQIvIjQDDzUqBQNePgwAJV5bJxs2BgUnOgItCFZHIzY9WS0FMUcuCzsAIggxXS4FPUQtMldZDSUTHwA4XR44OQkeDSU+EAJdPg8xNj8IIwg1BDg3KgIDNj8IIzY5HiwrKRgGDAJaNDVBPwICH0w="
     },
     {
       "key": "0°",
@@ -237,7 +271,7 @@
       "name": "影坛|弹幕",
       "type": 3,
       "api": "csp_ApplvDV2",
-      "ext": "0###WH5hCFZ2WEJ1BH1CUF9+QVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
+      "ext": "0###DyoqWQIrBwMuUyBLCw8xHAMnBEAHOTwDIg82HC1dLgIDMltGDyo5Hzg3KgIuGCNbJ1AQWQUnKUMuGFdZDSo6XAM8XQYHOQIECiohHDhdXAM7OSxBIlAUHDsoPkEyUixZDQw2BQJfBB4yNStcNzo6HgA4OUwvNS9GIyY5BAUCBB44NldnDQ8PUA=="
     },
     {
       "key": "mofang",
@@ -251,21 +285,21 @@
       "name": "QD4K|弹幕",
       "type": 3,
       "api": "csp_ApplvDV2",
-      "ext": "0###WH5hCFZ2WEJ1THYLeFsDAHRPB0B7Zm5BdGJmT3pYckN0YnJObGp1RHVYcVdWcQ5cWn5yTnxLel5YfmEIVnZYQnUFW0hsZQ5bXWFYTWwBW0JdYlxAeHZ2Q3UEdU9UYQ8bWARlDWVmU1hjYlBCb2Z+TWBcYk97dmYFdAR1U2xIckx3W3YIeHZ5XHRMeVR6ZXoAc1hlQVd2B15wT31XUXplQ3ZfC057ZlxBdGJmQnlYcgZ3TwdAenZiAnRMfgl6YQ5cWnFYTmUAQ1hcYgJ+UHplcVxbBml7dX1eW3J9bGZcU3pcfmZVUWp9R2llflJ8AF8EXX5yDnlLDl5gYV9JVGECRl1hdUhXdWECWH5lSFRcYk11W31OV2ZYBXRyZgl5AFsBY18KSVRlYQBYZQZPVHp2G11ueUtlYXpecARbCFF6dgJ1TwtAeGZ2QXdyck14ZnoHdVx2Cnp2WAV0cnJPeQBxQ1hlCklUZWEAWGUKUlcABkBbBAcXZgBhAWljaXFmZUdhXUxxTVYCcgZqWHlqe2dHcWtlaQlWX0AN"
+      "ext": "0###DyoqWQIrBwMuGysCIwtMXSwWXA0sNTdEIzYtHi4FLQIvNS9HNzo6GS0BKhoBIldZDSo5HygWJR8DKTwBDSYXHy1dJh0DNh5BIg8MWDg4BAY4OR5eCjUUGAU7IQA7U1dFIQgtHi87PQMDOQJcIlAIGTs3AAUuDyxeDSZBWAICH0wrGCNbDyoqWQIrBwMuUgZBNzVBBgU4AwA7UgJHCjYXESwrKQIuUyhGDzFARgBdPkAyNQpdNDYbEzs7IQw7Cz9GICYpWCxdLh47GytJIA89WSwrJh0vGyRdITU1XSsBPgwAJV5bJxs2BgUnOgItCFZHIzY9Hi0FOQIuCytLIBtMES8FD0MsNS9GIyFBAQIoAwMDDAJdCyUTHzhdUQEANldEPlIMBQQ7WTIxJAJAOCobHgMBJjcsCh5IOzYuIjMqPRgGOSRCPjE1AyhdAEUGKS8HIhtAWC48XA0sNSNEIzYhWi0FLUEsNQFLIxgtXC1dLgIDMlYeD1AuXDE6PkEGJDwHDA45WTgCJgYvUCB6ClJJXQU8MkQBDBkIKjMXVA=="
     },
     {
       "key": "相随",
       "name": "相随|弹幕",
       "type": 3,
       "api": "csp_ApplvDV2",
-      "ext": "0###WH5hCFZ2WEJ1TGJCeVh+BHZ1B0B4dnZBdGJ+CXpYVAZ2clBObGp1RHVYcVdWcQ5cWn5yTnxLel5YfmEIVnp6AnVPCktRX2VCXWJUTXhIZgV3XFAKeVxfAVxfClBvdWVCW1h+Tld6bV9bBWVRVwFQQmBucUh5X1tBY3FlDGUAW19pYmJVUWp9R2llflJ8AF8EXX5xQnpbD0JbfmlTVwFiAHVcfgh7Zm4Hd18GDFBqWEJgYWFTVwACTnUESwpvdQ4FYFsKDHkAcUNYZQZIV19lWFxyCkhvdgcFc1hlQVd2Bwk="
+      "ext": "0###DyoqWQIrBwMuGz9LIggxWS4sXA0vJS9EIzY1WC4FC0ctJQ1HNzo6GS0BKhoBIldZDSo5HygWJR8DKTwBDSYXHy0VOQ8uCycBISFMESwrKQAvNSMAIQgTXS8VOVoGOSRCPjE1AyhdAEUGKS8HIhtAWSwWXAwsJQlEIzY5Hi0FLQ8sNQEEISYbWTFcPgwAJV5bJxs2BgUnOgItCFZHICYbHCw7IQ0uCysCIBtMES4rIUMvNTtGIAtBGAQnDwABJgZGPlEuEAMrWEg="
     },
     {
       "key": "觅影",
       "name": "觅影|弹幕",
       "type": 3,
       "api": "csp_ApplvDV2",
-      "ext": "0###WH5hCFZ2WEJ1THZAeHEDBHR1Bwh4cQNNd3J6DnpmXE11BHVPVGECQ1h+ck5sanVDdU9+UnwAXwRdfnIOeUsPTHRidk14WH4BdVx2DHpxA0x3YmIOeEh6TnRPClBvdWVCW1h+Tld6bV9bBWVRVwFQQmBucUh5X1tBY3FlDGUAW19pYlBVUWp9R2llflJ8AF8EXX5xQnpbD0JbfmlTVwFiAHVcfgh7Zm4Hd18GDFBqWEJgYWFTVwACTnUESwpvdQ4FYFsKDHkAcUNYZQZIV19lWFxyCkhvdgcFc1hlQVd2Bwk="
+      "ext": "0###DyoqWQIrBwMuGytJIyFMWSwsXEUvIlpIICYxXy47AwwuUyhGDzFNHgAnKQM7OSxGIhs1AyhdAEUGKS8HIhtAESw7LQAvCycEIgg9XS4sXA0sNT8HIxg1EywWUR04JjxHDAw1HwMnMh4AUjhYDFEfHzg3KgUuDAJENCUuXTFdBB4yNQ1cCjoyGjE8JR8rUwYBCio6Ey4GUAMAKTRaDFEtXS0FJUUsNTcCIAtNXQQ3BwM7NjxaDFBNEy1dEEc4JlcANw9BXS1dLgIDMltBDA8qBQQrUQU4JV4AJAwuEAMrWEg="
     },
     {
       "key": "星辰",
