@@ -12,7 +12,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|小虎斑的口粮 v3.5",
+      "name": "导航|小虎斑的口粮 v4.1",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
@@ -137,29 +137,29 @@
       "key": "tenteng",
       "name": "落日|自定",
       "type": 3,
-      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
-      "ext": "http://103.45.162.207:25252/tvbox/lib/腾腾.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾腾.js"
     },
     {
       "key": "youyou",
       "name": "日出|自定",
       "type": 3,
-      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
-      "ext": "http://103.45.162.207:25252/tvbox/lib/优优.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优优.js"
     },
     {
       "key": "qiqi",
       "name": "晚霞|自定",
       "type": 3,
-      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
-      "ext": "http://103.45.162.207:25252/tvbox/lib/奇奇.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇奇.js"
     },
     {
       "key": "mangmang",
       "name": "朝阳|自定",
       "type": 3,
-      "api": "http://103.45.162.207:25252/tvbox/drpy_libs/drpy2.min.js",
-      "ext": "http://103.45.162.207:25252/tvbox/lib/茫茫.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/茫茫.js"
     },
     {
       "key": "馆源",
