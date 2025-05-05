@@ -319,6 +319,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "style": {
                 "type": "list",
                 "ratio": 1.433
@@ -335,6 +336,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "style": {
                 "type": "list",
                 "ratio": 1.433
@@ -347,10 +349,11 @@
             "type": 3,
             "api": "csp_PanWebKuBa",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
             "ext": {
-                "url": "https://panku8.com"
+                "url": "https://panku8.com,https://yipanso.com"
             }
         },
         {
@@ -371,7 +374,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/market.json"
+            "ext": "https://9877.kstore.space/Market/multi.json"
         },
         {
             "key": "push_agent",
