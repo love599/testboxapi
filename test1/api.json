@@ -12,7 +12,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|小虎斑的口粮 v4.6",
+      "name": "导航|小虎斑的口粮 v4.8",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
@@ -132,6 +132,13 @@
       "name": "夸克|短搜2",
       "type": 3,
       "api": "csp_HBqkDj"
+    },
+    {
+      "key": "小猫",
+      "name": "小猫|自定",
+      "type": 3,
+      "api": "csp_HBcms10",
+      "ext": "https://zy.xiaomaomi.cc/api.php/provide/vod/"
     },
     {
       "key": "tenteng",
@@ -471,13 +478,6 @@
       "ext": "https://json02.heimuer.xyz/api.php/provide/vod/"
     },
     {
-      "key": "小猫",
-      "name": "小猫|弹幕",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "ext": "https://zy.xiaomaomi.cc/api.php/provide/vod/"
-    },
-    {
       "key": "push_agent",
       "name": "手机｜推送",
       "type": 3,
@@ -508,11 +508,6 @@
       "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "超级接口",
-      "type": 1,
-      "url": "http://60.211.124.23:10101/hbanbox/json/json.php/?key=369258173222&url="
     }
   ],
   "flags": [
