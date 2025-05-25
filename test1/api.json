@@ -12,7 +12,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|小虎斑的口粮 v5.7",
+      "name": "导航|小虎斑的口粮",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
@@ -41,6 +41,13 @@
       "name": "网弹|旧设置",
       "type": 3,
       "api": "csp_HBset"
+    },
+    {
+      "key": "静月",
+      "name": "养生|京城",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/养生.js"
     },
     {
       "key": "网盘虎斑",
@@ -72,16 +79,6 @@
         "cookie": "",
         "uccookie": "",
         "site": "http://666.666291.xyz/"
-      }
-    },
-    {
-      "key": "百家",
-      "name": "百家|虎斑",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Mogg",
-      "ext": {
-        "site": "http://cj.jiexi.news/"
       }
     },
     {
@@ -215,6 +212,27 @@
       "type": 3,
       "api": "csp_HBmoou",
       "ext": "DyoqWQInJUMuGFdZDwwuXwA8XUUAUi9HJxs1AwAnOkUBKSMHIhtBXQABPkMDMlsBDFE5HygWJR9XEANoWwNKOCgWJR8sIlpIIgg5AygWJUc7NT8FIw89WiwoIUEvJjhdNA81XCgWJR87GwUEIDYfEC8CLQ84NQkDNA8uAjsuVUg="
+    },
+    {
+      "key": "永夜",
+      "name": "永夜|弹幕",
+      "type": 3,
+      "api": "csp_HBmoou",
+      "ext": "DyoqWQIrBwMuUyhGDSFNHDs3BEAAMltbDAtAVA=="
+    },
+    {
+      "key": "趣看",
+      "name": "趣看|弹幕",
+      "type": 3,
+      "api": "csp_HBmoou",
+      "ext": "DyoqWQInJUMuGFcCClEbHAI3Pg0GNhpZDAtNAzgWUEg="
+    },
+    {
+      "key": "柚子",
+      "name": "柚子|弹幕",
+      "type": 3,
+      "api": "csp_HBmoou",
+      "ext": "DyoqWQIrBwMuGysCIwtMEC8rCwAvNQVIIgg9WSwrBw0vCycDICFAVA=="
     },
     {
       "key": "驿站",
