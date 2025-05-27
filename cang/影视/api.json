@@ -168,11 +168,11 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://172.247.44.217:30012",
-                "dataKey": "JLa1oRdL6+eK7@M)",
-                "dataIv": "JLa1oRdL6+eK7@M)",
-                "deviceId": "",
-                "version": ""
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "315"
             }
         },
         {
@@ -210,7 +210,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://apiapplbys.lbys.cc:5678",
+                "url": "https://apiapplbys.lbys.app:5678",
                 "dataKey": "apiapplbyskey168",
                 "dataIv": "apiapplbyskey168",
                 "deviceId": "",
@@ -224,7 +224,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://46.203.125.54:2663",
+                "url": "http://46.203.125.54:7070",
                 "dataKey": "RuN9LRvwTRgpQnpK",
                 "dataIv": "RuN9LRvwTRgpQnpK",
                 "deviceId": "",
@@ -294,11 +294,11 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://156.225.30.65:5566",
-                "dataKey": "DxwIstrdWbYpblwn",
-                "dataIv": "DxwIstrdWbYpblwn",
-                "deviceId": "",
-                "version": "119"
+                "url": "http://46.203.125.54:7070",
+                "dataKey": "RuN9LRvwTRgpQnpK",
+                "dataIv": "RuN9LRvwTRgpQnpK",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "547"
             }
         },
         {
@@ -1426,6 +1426,7 @@
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 1,
             "timeout": 10
         },
         {

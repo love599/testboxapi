@@ -414,6 +414,7 @@
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 1,
             "timeout": 10
         },
         {
