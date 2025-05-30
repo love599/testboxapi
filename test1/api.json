@@ -173,6 +173,13 @@
       "ext": "DyoqWQIrBwMuGydIIwtMES4rMQAsNQ1EIwgpXy8VMQIvIldACyFNHgAnKVoGOSRCPjE1AyhdAEUGKS8HIhtAESw7OQAsCzdEIDYtHCwFD0MsNTsEIlA+HgA8UQUADDxdCyZBHjg3Ig84OSB7NCZIECwsMh0BKSxBNCZIESwrKQIvIjQDDzUqBQNePgwAJV5bJxs2BgUnOgItCFZHIzY9WS0FMUcuCzsAIggxXS4FPUQtMldZDSUTHwA4XR44OQkeDSU+EAJdPg8xNj8IIwg1BDg3KgIDNj8IIzY5HiwrKRgGDAJaNDVBPwICH0w="
     },
     {
+      "key": "miaoying",
+      "name": "秒映|弹幕",
+      "type": 3,
+      "api": "csp_HBgetappapi",
+      "ext": "eyJob3N0IjoiaHR0cDovLzEyMS4yMDQuMjUxLjcwOjEyMDAwLyIsImtleSI6IlJqVXhSalZFTlRKRU1qTkROVEU0TVE9PSIsIml2IjoiUmpVeFJqVkVOVEpFTWpORE5URTRNUT09IiwidG9rZW4iOiIwOTgxYzBmNTUwYjg3MzdkYTkyZDUwNWNiYjZlOTM4MzM0ZTBiNDZjMDc0NGQ1Mzk5OWU4NDQ2ZDg3ZjdjNzQ5In0="
+    },
+    {
       "key": "风神",
       "name": "风神|弹幕",
       "type": 3,
@@ -273,13 +280,6 @@
       "type": 3,
       "api": "csp_HBgetapp",
       "ext": "eyJob3N0IjoiaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wLyIsImtleSI6IllqQXlOV1JqWkRsak1qZzVZMkppTXc9PSIsIml2IjoiWWpBeU5XUmpaRGxqTWpnNVkySmlNdz09In0="
-    },
-    {
-      "key": "miaoying",
-      "name": "秒映|弹幕",
-      "type": 3,
-      "api": "csp_HBgetappapi",
-      "ext": "eyJob3N0IjoiaHR0cDovLzEyMS4yMDQuMjUxLjcwOjEyMDAwLyIsImtleSI6IlJqVXhSalZFTlRKRU1qTkROVEU0TVE9PSIsIml2IjoiUmpVeFJqVkVOVEpFTWpORE5URTRNUT09In0="
     },
     {
       "key": "磁力",
