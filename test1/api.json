@@ -169,8 +169,22 @@
       "key": "馆源",
       "name": "馆源|自定",
       "type": 3,
-      "api": "csp_HB360",
-      "ext": "DyoqWQIrBwMuGydIIwtMES4rMQAsNQ1EIwgpXy8VMQIvIldACyFNHgAnKVoGOSRCPjE1AyhdAEUGKS8HIhtAESw7OQAsCzdEIDYtHCwFD0MsNTsEIlA+HgA8UQUADDxdCyZBHjg3Ig84OSB7NCZIECwsMh0BKSxBNCZIESwrKQIvIjQDDzUqBQNePgwAJV5bJxs2BgUnOgItCFZHIzY9WS0FMUcuCzsAIggxXS4FPUQtMldZDSUTHwA4XR44OQkeDSU+EAJdPg8xNj8IIwg1BDg3KgIDNj8IIzY5HiwrKRgGDAJaNDVBPwICH0w="
+      "api": "csp_HB360"
+      //"ext": "DyoqWQIrBwMuGydIIwtMES4rMQAsNQ1EIwgpXy8VMQIvIldACyFNHgAnKVoGOSRCPjE1AyhdAEUGKS8HIhtAESw7OQAsCzdEIDYtHCwFD0MsNTsEIlA+HgA8UQUADDxdCyZBHjg3Ig84OSB7NCZIECwsMh0BKSxBNCZIESwrKQIvIjQDDzUqBQNePgwAJV5bJxs2BgUnOgItCFZHIzY9WS0FMUcuCzsAIggxXS4FPUQtMldZDSUTHwA4XR44OQkeDSU+EAJdPg8xNj8IIwg1BDg3KgIDNj8IIzY5HiwrKRgGDAJaNDVBPwICH0w="
+    },
+    {
+      "key": "坛影",
+      "name": "坛影|弹幕",
+      "type": 3,
+      "api": "csp_ApplvDV2",
+      "ext": "0###DyoqWQIrBwMuUyBFDRtNGgQ4DB4HOQVEN1BMHzg3KgUuDyxeDSFBAQInKQM="
+    },
+    {
+      "key": "叶子",
+      "name": "叶子|弹幕",
+      "type": 3,
+      "api": "csp_HBgetapp",
+      "ext": "eyJob3N0IjoiaHR0cHM6Ly9sa3Zsb2cuY24vIiwia2V5IjoiWlRZMU1UUTBNemc1WlRrek5qRmlOUT09IiwiaXYiOiJaVFkxTVRRME16ZzVaVGt6TmpGaU5RPT0ifQ=="
     },
     {
       "key": "miaoying",
