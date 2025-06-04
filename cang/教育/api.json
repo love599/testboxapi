@@ -425,12 +425,6 @@
             "timeout": 10
         },
         {
-            "name": "咪咕直播",
-            "type": 0,
-            "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
-            "timeout": 10
-        },
-        {
             "name": "虎牙一起看",
             "type": 3,
             "api": "csp_Feiyang",

@@ -194,13 +194,13 @@
             "name": "诺雪｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "https://appcms.rx4k.top",
-                "dataKey": "LiGFzV6csf21zsu6",
-                "dataIv": "LiGFzV6csf21zsu6",
+                "url": "https://qjappcms.rx4k.top",
+                "dataKey": "ZX10ysTYZWtIJCTU",
+                "dataIv": "ZX10ysTYZWtIJCTU",
                 "deviceId": "",
-                "version": ""
+                "version": "120"
             }
         },
         {
