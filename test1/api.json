@@ -50,6 +50,12 @@
       "api": "csp_HBset"
     },
     {
+      "key": "馆源",
+      "name": "馆源|自定",
+      "type": 3,
+      "api": "csp_HB360"
+    },
+    {
       "key": "聚合",
       "name": "聚合|在线",
       "type": 3,
@@ -178,12 +184,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/茫茫.js"
     },
-    {
-      "key": "馆源",
-      "name": "馆源|自定",
-      "type": 3,
-      "api": "csp_HB360"
-    },
+
     {
       "key": "miaoying",
       "name": "秒映|弹幕",
