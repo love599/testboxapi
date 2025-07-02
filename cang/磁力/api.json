@@ -28,8 +28,7 @@
             "name": "荐片｜磁力",
             "api": "csp_Jianpian",
             "type": 3,
-            "playerType": 1,
-            "ext": "https://api.ubj83.com"
+            "playerType": 1
         },
         {
             "key": "修罗影视",
