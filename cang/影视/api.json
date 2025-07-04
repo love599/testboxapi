@@ -202,6 +202,32 @@
             }
         },
         {
+            "key": "码头",
+            "name": "码头｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.lgmt.cc",
+                "dataKey": "asfjaskasgggassf",
+                "dataIv": "asfjaskasgggassf",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "米诺",
+            "name": "米诺｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://www.milkidc.cn",
+                "dataKey": "20c79c979da8db0f",
+                "dataIv": "20c79c979da8db0f",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
             "key": "光盘",
             "name": "光盘｜APP",
             "type": 3,
@@ -312,20 +338,6 @@
                 "dataIv": "NiDGaKiVnkO3QX1Q",
                 "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
                 "version": "200"
-            }
-        },
-        {
-            "key": "剧咖",
-            "name": "剧咖｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://ys.xiaoqi0.cn",
-                "dataKey": "jukayingshi88888",
-                "dataIv": "jukayingshi88888",
-                "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
-                "version": "112"
             }
         },
         {
@@ -511,20 +523,6 @@
             }
         },
         {
-            "key": "晚枫",
-            "name": "晚枫｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://111.180.202.216:999",
-                "dataKey": "fjhndgbjidfhgjsd",
-                "dataIv": "fjhndgbjidfhgjsd",
-                "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
-                "version": "120"
-            }
-        },
-        {
             "key": "诺映",
             "name": "诺映｜APP",
             "type": 3,
@@ -642,6 +640,17 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "河马短剧",
+            "name": "河马｜短剧",
+            "type": 3,
+            "api": "./py/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "偷乐短剧",
