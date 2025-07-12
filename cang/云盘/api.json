@@ -416,6 +416,12 @@
             "changeable": 0
         },
         {
+            "key": "米搜",
+            "name": "米搜｜搜索",
+            "type": 3,
+            "api": "csp_MiSou"
+        },
+        {
             "key": "聚搜",
             "name": "聚搜｜搜索",
             "type": 3,
