@@ -127,9 +127,10 @@
             "timeout": 10
         },
         {
-            "name": "咪咕直播",
+            "name": "Guovin",
             "type": 0,
-            "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },
         {
