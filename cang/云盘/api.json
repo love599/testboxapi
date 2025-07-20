@@ -113,7 +113,7 @@
         },
         {
             "key": "小斑快映",
-            "name": "小斑快映｜4K弹幕",
+            "name": "快映｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
