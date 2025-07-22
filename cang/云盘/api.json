@@ -37,20 +37,6 @@
             "ext": "./json/alist.json"
         },
         {
-            "key": "阿里云盘",
-            "name": "阿里｜云盘",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/aliShare.json"
-        },
-        {
             "key": "夸克云盘",
             "name": "夸克｜云盘",
             "type": 3,
