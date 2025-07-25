@@ -162,7 +162,8 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_HBleiJing",
-      "ext": {}
+      "ext": {        "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
+        "leijck": ""}
     },
     {
       "key": "短剧夸克2",
