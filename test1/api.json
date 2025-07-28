@@ -628,6 +628,11 @@
       }
     },
     {
+      "name": "虎斑mt4K",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
+    },
+    {
       "name": "虎斑HJ",
       "type": 1,
       "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
