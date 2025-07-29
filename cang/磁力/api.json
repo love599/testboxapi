@@ -72,15 +72,6 @@
             "ext": "https://www.xb6v.com"
         },
         {
-            "key": "SeedHub",
-            "name": "SeedHub｜磁力",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "美剧迷",
             "name": "美剧迷｜磁力",
             "type": 3,
