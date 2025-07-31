@@ -78,15 +78,16 @@
             }
         },
         {
-            "key": "米饭动漫",
-            "name": "米饭｜动漫",
+            "key": "多多动漫",
+            "name": "多多｜动漫",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://45.43.29.111:9527",
-                "dataKey": "GETMIFUNGEIMIFUN",
-                "dataIv": "GETMIFUNGEIMIFUN",
+                "url": "",
+                "site": "https://app.cf4k.xyz/1.txt",
+                "dataKey": "qqqqqqqqqqqqqqqq",
+                "dataIv": "qqqqqqqqqqqqqqqq",
                 "deviceId": "",
                 "version": ""
             }
@@ -115,20 +116,6 @@
                 "url": "https://qjappcms.acg.party",
                 "dataKey": "AmtMYFCJDPoTlK7z",
                 "dataIv": "AmtMYFCJDPoTlK7z",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-            "key": "丫丫",
-            "name": "丫丫｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://tv.yy-fun.cc",
-                "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl",
                 "deviceId": "",
                 "version": ""
             }
@@ -181,13 +168,6 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/花子动漫.js"
-        },
-        {
-            "key": "樱花动漫",
-            "name": "樱花｜动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/樱花动漫.js"
         },
         {
             "key": "动画片",
@@ -454,52 +434,7 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 1,
-            "timeout": 10
-        },
-        {
-            "name": "Guovin",
-            "type": 0,
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Live",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://github.3x25.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10
-        }
-    ],
+    "lives": [],
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
