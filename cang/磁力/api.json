@@ -111,16 +111,6 @@
             "ext": "./XBPQ/狐狸君.json"
         },
         {
-            "key": "BT天堂",
-            "name": "BT天堂｜磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/BT天堂.json"
-        },
-        {
             "key": "Mp4电影",
             "name": "Mp4电影｜磁力",
             "type": 3,
