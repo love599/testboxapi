@@ -32,15 +32,9 @@
     },
     {
       "key": "设置",
-      "name": "网弹|新设置",
+      "name": "网弹|设置",
       "type": 3,
       "api": "csp_HBconfig"
-    },
-    {
-      "key": "oid设置",
-      "name": "网弹|旧设置",
-      "type": 3,
-      "api": "csp_HBset"
     },
     {
       "key": "全网",
