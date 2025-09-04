@@ -2,12 +2,41 @@
   "spider": "./custom_spider.jar",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "lives": [
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    }
+        {
+            "name": "mursor-iptv",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okHttp/Mod-1.2.0.1"
+        },
+        {
+            "name": "mursor-huya",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okHttp/Mod-1.2.0.1"
+        },
+        {
+            "name": "mursor-douyu",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okHttp/Mod-1.2.0.1"
+        },
+        {
+            "name": "mursor-yylunbo",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okHttp/Mod-1.2.0.1"
+        },
+        {
+            "name": "mursor-bililive",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okHttp/Mod-1.2.0.1"
+        }
   ],
   "sites": [
     {
