@@ -79,7 +79,7 @@
         },
         {
             "key": "小斑快映",
-            "name": "快映｜4K弹幕",
+            "name": "快映｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -90,7 +90,7 @@
         },
         {
             "key": "玩偶哥哥",
-            "name": "玩偶｜4K弹幕",
+            "name": "玩偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -100,7 +100,7 @@
         },
         {
             "key": "木偶",
-            "name": "木偶｜4K弹幕",
+            "name": "木偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -110,7 +110,7 @@
         },
         {
             "key": "蜡笔",
-            "name": "蜡笔｜4K弹幕",
+            "name": "蜡笔｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -121,7 +121,7 @@
         },
         {
             "key": "至臻",
-            "name": "至臻｜4K弹幕",
+            "name": "至臻｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -132,7 +132,7 @@
         },
         {
             "key": "多多",
-            "name": "多多｜4K弹幕",
+            "name": "多多｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -143,7 +143,7 @@
         },
         {
             "key": "欧哥",
-            "name": "欧哥｜4K弹幕",
+            "name": "欧哥｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -154,7 +154,7 @@
         },
         {
             "key": "二小",
-            "name": "二小｜4K弹幕",
+            "name": "二小｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -165,7 +165,7 @@
         },
         {
             "key": "虎斑",
-            "name": "虎斑｜4K弹幕",
+            "name": "虎斑｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -176,7 +176,7 @@
         },
         {
             "key": "闪电",
-            "name": "闪电｜4K弹幕",
+            "name": "闪电｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -187,7 +187,7 @@
         },
         {
             "key": "百家",
-            "name": "百家｜4K弹幕",
+            "name": "百家｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -198,7 +198,7 @@
         },
         {
             "key": "团长",
-            "name": "团长｜4K弹幕",
+            "name": "团长｜4K",
             "type": 3,
             "api": "csp_PanWebTz",
             "searchable": 1,
@@ -208,7 +208,7 @@
         },
         {
             "key": "雷鲸",
-            "name": "雷鲸｜4K弹幕",
+            "name": "雷鲸｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
             "searchable": 1,
@@ -223,7 +223,7 @@
         },
         {
             "key": "海绵",
-            "name": "海绵｜4K弹幕",
+            "name": "海绵｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudHM",
             "searchable": 1,
@@ -238,7 +238,7 @@
         },
         {
             "key": "夸父",
-            "name": "夸父｜4K弹幕",
+            "name": "夸父｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudKF",
             "searchable": 1,
@@ -253,7 +253,7 @@
         },
         {
             "key": "123",
-            "name": "123｜4K弹幕",
+            "name": "123｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloud123",
             "searchable": 1,
@@ -268,7 +268,7 @@
         },
         {
             "key": "趣盘",
-            "name": "趣盘｜4K弹幕",
+            "name": "趣盘｜4K",
             "type": 3,
             "api": "csp_PanWebQu",
             "searchable": 1,
@@ -285,7 +285,7 @@
         },
         {
             "key": "盘库",
-            "name": "盘库｜4K弹幕",
+            "name": "盘库｜4K",
             "type": 3,
             "api": "csp_PanWebKuBa",
             "searchable": 1,
@@ -298,7 +298,7 @@
         },
         {
             "key": "双星",
-            "name": "双星｜4K弹幕",
+            "name": "双星｜4K",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/双星.js",
@@ -308,7 +308,7 @@
         },
         {
             "key": "校长",
-            "name": "校长｜4K弹幕",
+            "name": "校长｜4K",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/校长.js",
@@ -318,7 +318,7 @@
         },
         {
             "key": "人人电影网",
-            "name": "人人｜4K弹幕",
+            "name": "人人｜4K",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/人人电影网.js",
