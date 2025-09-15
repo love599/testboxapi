@@ -28,7 +28,7 @@
             "name": "荐片｜磁力",
             "api": "csp_Jianpian",
             "type": 3,
-            "ext": "https://ij1men.slsw6.com"
+            "ext": "https://api.ztcgi.com"
         },
         {
             "key": "修罗",
