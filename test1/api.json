@@ -5,9 +5,8 @@
         {
             "name":"V6-范明明（需开启V6网络）",
             "type":0,
-            "url":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
-            "playerType":2,
-            "logo":"https://11.112114.xyz/logo/{name}.png"
+            "url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+            "playerType":2
         },
         {
             "name":"平台直播",
@@ -256,17 +255,24 @@
     },*/
         {
       "key": "至尊",
-      "name": "魔尊|弹幕",
+      "name": "魔尊|4K弹幕",
       "type": 3,
       "api": "csp_AppZzun",
       "ext": "http://154.219.113.13:12121/json/app.txt"
     },
     {
       "key": "魔尊",
-      "name": "重楼|自定",
+      "name": "重楼|4K弹幕",
       "type": 3,
       "api": "csp_HBcms10",
       "ext": "http://154.219.113.13:12121/json/cms.txt"
+    },
+        {
+      "key": "紫萱",
+      "name": "紫萱|4K弹幕",
+      "type": 3,
+      "api": "csp_AppZzun",
+      "ext": "http://154.219.113.13:12121/json/app2.txt"
     },
     {
       "key": "竹生",
