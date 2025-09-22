@@ -177,16 +177,6 @@
             "ext": "./json/hb.json"
         },
         {
-            "key": "团长",
-            "name": "团长｜4K",
-            "type": 3,
-            "api": "csp_PanWebTz",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "雷鲸",
             "name": "雷鲸｜4K",
             "type": 3,
