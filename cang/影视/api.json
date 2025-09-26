@@ -245,6 +245,22 @@
             }
         },
         {
+            "key": "奈飞",
+            "name": "奈飞丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://movier.ink",
+                "site": "",
+                "dataKey": "moviermovierink9",
+                "dataIv": "moviermovierink9",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
             "key": "迪吧",
             "name": "迪吧丨APP",
             "type": 3,
@@ -763,10 +779,11 @@
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
-            "api": "csp_AppXY",
+            "api": "./py/星芽短剧.py",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "甜圈短剧",

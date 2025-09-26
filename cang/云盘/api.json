@@ -340,40 +340,52 @@
             "api": "csp_MiSou"
         },
         {
-            "key": "短剧大全",
-            "name": "短剧｜大全",
+            "key": "酷乐搜索",
+            "name": "酷乐｜搜索",
             "type": 3,
-            "api": "csp_DuanjuDQ"
+            "api": "csp_KuLe"
         },
         {
-            "key": "短剧合集",
-            "name": "短剧｜合集",
+            "key": "爱看搜索",
+            "name": "爱看｜搜索",
             "type": 3,
-            "api": "csp_DuanjuHJ"
+            "api": "csp_AiKan"
         },
         {
-            "key": "短剧鬼鬼",
-            "name": "短剧｜鬼鬼",
+            "key": "鬼鬼搜索",
+            "name": "鬼鬼｜搜索",
             "type": 3,
-            "api": "csp_DuanjuGG"
+            "api": "csp_GuiGui"
         },
         {
             "key": "夸克推送",
             "name": "夸克｜推送",
             "type": 4,
-            "api": "http://zling.online:12331/api.php?type=quark"
+            "api": "https://so.yinpai.xyz/api.php?type=quark"
         },
         {
             "key": "UC推送",
             "name": "UC｜推送",
             "type": 4,
-            "api": "http://zling.online:12331/api.php?type=uc"
+            "api": "https://so.yinpai.xyz/api.php?type=uc"
+        },
+        {
+            "key": "天翼推送",
+            "name": "天翼｜推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+        },
+        {
+            "key": "123推送",
+            "name": "123｜推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=123"
         },
         {
             "key": "百度推送",
             "name": "百度｜推送",
             "type": 4,
-            "api": "http://zling.online:12331/api.php?type=baidu"
+            "api": "https://so.yinpai.xyz/api.php?type=baidu"
         },
         {
             "key": "版本信息",
