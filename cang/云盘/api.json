@@ -222,6 +222,21 @@
             "ext": "./json/kf.json"
         },
         {
+            "key": "123",
+            "name": "123｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloud123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/123.json"
+        },
+        {
             "key": "趣盘",
             "name": "趣盘｜4K",
             "type": 3,
@@ -356,36 +371,6 @@
             "name": "鬼鬼｜搜索",
             "type": 3,
             "api": "csp_GuiGui"
-        },
-        {
-            "key": "夸克推送",
-            "name": "夸克｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=quark"
-        },
-        {
-            "key": "UC推送",
-            "name": "UC｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=uc"
-        },
-        {
-            "key": "天翼推送",
-            "name": "天翼｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
-        },
-        {
-            "key": "123推送",
-            "name": "123｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=123"
-        },
-        {
-            "key": "百度推送",
-            "name": "百度｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=baidu"
         },
         {
             "key": "版本信息",
