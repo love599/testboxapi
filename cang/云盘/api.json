@@ -38,7 +38,7 @@
         },
         {
             "key": "夸克云盘",
-            "name": "夸克｜云盘",
+            "name": "我的｜夸克",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -51,8 +51,8 @@
             "ext": "./json/quarkShare.json"
         },
         {
-            "key": "UC",
-            "name": "UC｜云盘",
+            "key": "UC云盘",
+            "name": "我的｜UC",
             "type": 3,
             "api": "csp_PanUc",
             "searchable": 0,
@@ -66,7 +66,7 @@
         },
         {
             "key": "百度云盘",
-            "name": "百度｜云盘",
+            "name": "我的｜百度",
             "type": 3,
             "api": "csp_PanBaiDu",
             "searchable": 0,
