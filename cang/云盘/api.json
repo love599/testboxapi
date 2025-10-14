@@ -37,6 +37,20 @@
             "ext": "./json/alist.json"
         },
         {
+            "key": "阿里云盘",
+            "name": "我的｜阿里",
+            "type": 3,
+            "api": "csp_PanAli",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/aliShare.json"
+        },
+        {
             "key": "夸克云盘",
             "name": "我的｜夸克",
             "type": 3,
@@ -281,6 +295,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "阿里盘搜",
+            "name": "阿里｜搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "cloudDrives": "aliyun"
+            }
         },
         {
             "key": "夸克盘搜",
