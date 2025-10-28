@@ -5,6 +5,13 @@
         {"name":"V4-develop202","type":0,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
         {"name":"V6-范明明（需开启V6网络）","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
         {
+            "name":"冰茶",
+            "type":0,
+            "playerType":2,
+            "url":"https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+            "ua":"bingcha/1.1(mianfeifenxiang)"
+        },
+        {
             "name": "mursor-huya",
             "type": 0,
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
@@ -204,31 +211,31 @@
       "key": "123",
       "name": "123|推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=123"
+      "api": "https://so.yinpai.xyz/api.php?type=123"
     },
     {
       "key": "夸克推送",
       "name": "夸克|推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=quark"
+      "api": "https://so.yinpai.xyz/api.php?type=quark"
     },
     {
       "key": "优惜",
       "name": "优惜|推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=uc"
+      "api": "https://so.yinpai.xyz/api.php?type=uc"
     },
     {
       "key": "百度",
       "name": "百度|推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=baidu"
+      "api": "https://so.yinpai.xyz/api.php?type=baidu"
     },
     {
       "key": "天翼",
       "name": "天翼|推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=tianyi"
+      "api": "https://so.yinpai.xyz/api.php?type=tianyi"
     },
    /* {
       "key": "短剧夸克2",
@@ -242,6 +249,20 @@
       "type": 3,
       "api": "csp_HBqkDj"
     },*/
+  {
+      "key": "景天",
+      "name": "景天|4K弹幕",
+      "type": 3,
+      "api": "csp_HBcms10Dou",
+      "ext": "https://zy.sh0o.cn/api.php/provide/vod/from/qq/"
+    },
+    {
+      "key": "茂茂",
+      "name": "茂茂|4K弹幕",
+      "type": 3,
+      "api": "csp_HBcms10Dou",
+      "ext": "https://zy.sh0o.cn/api.php/provide/vod/from/mgtv/"
+    },
         {
       "key": "至尊",
       "name": "魔尊|4K弹幕",
@@ -486,7 +507,7 @@
       "name": "文才|弹幕",
       "type": 3,
       "api": "csp_Wcai",
-      "ext": "https://www.gs4x7nq4.com"
+      "ext": "https://www.jxshdzs.com/"
     },
     {
       "key": "星河",
