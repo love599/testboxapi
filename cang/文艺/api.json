@@ -8,7 +8,10 @@
             "name": "播客｜综合",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/播客.js"
+            "ext": "./js/播客.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "配置中心",
@@ -28,46 +31,29 @@
             "name": "呦呦｜DJ",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/呦呦DJ.js"
+            "ext": "./js/呦呦DJ.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "清风DJ",
             "name": "清风｜DJ",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/清风DJ.js"
-        },
-        {
-            "key": "爱车MV",
-            "name": "爱车｜MV",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/爱车MV.js"
-        },
-        {
-            "key": "酷奇MV",
-            "name": "酷奇｜MV",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/酷奇MV.js"
+            "ext": "./js/清风DJ.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "蜻蜓FM",
             "name": "蜻蜓｜FM",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/蜻蜓FM.js"
-        },
-        {
-            "key": "六月听书",
-            "name": "六月｜听书",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_TingBook",
-            "searchable": 0,
+            "ext": "./js/蜻蜓FM.js",
             "style": {
-                "type": "rect",
-                "ratio": 1.433
+                "type": "list"
             }
         },
         {
@@ -75,28 +61,40 @@
             "name": "博看｜听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/博看听书.js"
+            "ext": "./js/博看听书.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "爱上你听书网",
             "name": "爱上你｜听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/爱上你听书网.js"
+            "ext": "./js/爱上你听书网.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "有声绘本网",
             "name": "有声绘本｜听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/有声绘本网.js"
+            "ext": "./js/有声绘本网.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "评书随身听",
             "name": "评书｜在线",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/评书随身听.js"
+            "ext": "./js/评书随身听.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "哔哩哔哩演唱会",
@@ -239,31 +237,12 @@
     ],
     "parses": [
         {
-            "name": "无上",
-            "type": "1",
-            "url": "https://mfjx.iwsyy.xyz/?url=",
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
             "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
                 "header": {
-                    "User-Agent": "okhttp/4.9.1"
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
         },
@@ -274,16 +253,6 @@
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
-                }
-            }
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
         },
@@ -552,14 +521,6 @@
                 "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
             ]
         }
-    ],
-    "hosts": [
-        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
     "flags": [
         "youku",

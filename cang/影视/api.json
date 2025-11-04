@@ -11,19 +11,6 @@
             "searchable": 0
         },
         {
-            "key": "预告",
-            "name": "新片｜预告",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
-        },
-        {
-            "key": "本地",
-            "name": "本地｜视频",
-            "type": 3,
-            "api": "csp_LocalFile"
-        },
-        {
             "key": "配置中心",
             "name": "配置｜中心",
             "type": 3,
@@ -35,6 +22,19 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+        {
+            "key": "本地",
+            "name": "本地｜视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
+        {
+            "key": "预告",
+            "name": "新片｜预告",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0
         },
         {
             "key": "热播影视",
@@ -59,6 +59,14 @@
             "ext": {
                 "url": "http://v.lkuys.cn"
             }
+        },
+        {
+            "key": "私人",
+            "name": "私人｜APP",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc//api.php/v1.vod"
         },
         {
             "key": "冷心",
@@ -330,18 +338,6 @@
             }
         },
         {
-            "key": "米奇",
-            "name": "米奇丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.milkidc.cn",
-                "dataKey": "20c79c979da8db0f",
-                "dataIv": "20c79c979da8db0f"
-            }
-        },
-        {
             "key": "星星",
             "name": "星星丨APP",
             "type": 3,
@@ -400,19 +396,6 @@
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
                 "dataKey": "dyyztvapiappyyds",
                 "dataIv": "dyyztvapiappyyds"
-            }
-        },
-        {
-            "key": "火狐",
-            "name": "火狐丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://huohu.yihn.cc",
-                "dataKey": "huohushipingetap",
-                "dataIv": "huohushipingetap",
-                "version": "140"
             }
         },
         {
@@ -717,6 +700,13 @@
             "filterable": 1
         },
         {
+            "key": "莫小影视",
+            "name": "莫小｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/莫小影视.json"
+        },
+        {
             "key": "明星影视",
             "name": "明星｜影视",
             "type": 3,
@@ -789,51 +779,12 @@
     ],
     "parses": [
         {
-            "name": "无上",
-            "type": "1",
-            "url": "https://mfjx.iwsyy.xyz/?url=",
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
             "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
                 "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-            "name": "巧计",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url=",
-            "ext": {
-                "flag": [
-                    "QD4K",
-                    "iyf",
-                    "duanju",
-                    "gzcj",
-                    "GTV",
-                    "GZYS",
-                    "weggz",
-                    "Ace"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
         },
@@ -844,16 +795,6 @@
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
-                }
-            }
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
         },
@@ -1122,14 +1063,6 @@
                 "149.112.112.112"
             ]
         }
-    ],
-    "hosts": [
-        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
     "flags": [
         "youku",
