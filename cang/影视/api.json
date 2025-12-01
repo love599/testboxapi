@@ -133,6 +133,36 @@
             }
         },
         {
+            "key": "爱盈",
+            "name": "爱盈｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
+                "dataKey": "sda1231sasddad21",
+                "dataIv": "sda1231sasddad21",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "顾我",
+            "name": "顾我｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
             "key": "咖啡",
             "name": "咖啡丨APP",
             "type": 3,
