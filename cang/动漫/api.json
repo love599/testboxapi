@@ -47,6 +47,18 @@
             }
         },
         {
+            "key": "丫丫动漫",
+            "name": "丫丫｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl"
+            }
+        },
+        {
             "key": "冬日动漫",
             "name": "冬日丨动漫",
             "type": 3,
@@ -132,18 +144,6 @@
             }
         },
         {
-            "key": "派对动漫",
-            "name": "派对｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://qjappcms.acg.party",
-                "dataKey": "AmtMYFCJDPoTlK7z",
-                "dataIv": "AmtMYFCJDPoTlK7z"
-            }
-        },
-        {
             "key": "米饭动漫",
             "name": "米饭｜动漫",
             "type": 3,
@@ -184,13 +184,6 @@
             "ext": "./js/花子动漫.js"
         },
         {
-            "key": "动画片",
-            "name": "动画片｜动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动画片大全.js"
-        },
-        {
             "key": "爱动漫",
             "name": "爱动漫｜动漫",
             "type": 3,
@@ -203,13 +196,6 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/路漫漫.js"
-        },
-        {
-            "key": "动漫岛",
-            "name": "动漫岛｜动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动漫岛.js"
         },
         {
             "key": "去看吧",

@@ -61,35 +61,12 @@
             }
         },
         {
-            "key": "羊羊",
-            "name": "羊羊｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "https://ht.zhenxun.love",
-                "name": "羊羊学院"
-            }
-        },
-        {
             "key": "吉米",
             "name": "吉米｜APP",
             "type": 3,
             "api": "csp_AppFox",
             "ext": {
                 "host": "http://fox.tvmao.top"
-            }
-        },
-        {
-            "key": "思念",
-            "name": "思念｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "https://snys2.xyz",
-                "timeout": 15,
-                "ver": 2
             }
         },
         {
@@ -107,7 +84,8 @@
             "type": 3,
             "api": "csp_AppFox",
             "ext": {
-                "host": "http://www.mzd.asia"
+                "host": "https://www.dhxxfhsz.top",
+                "ver": 2
             }
         },
         {
@@ -299,17 +277,6 @@
             }
         },
         {
-            "key": "鹤雪",
-            "name": "鹤雪｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://hxys.07hx.shop",
-                "dataKey": "hex200762200762.",
-                "dataIv": "hex200762200762."
-            }
-        },
-        {
             "key": "魔方",
             "name": "魔方｜APP",
             "type": 3,
@@ -433,18 +400,6 @@
             }
         },
         {
-            "key": "爱看",
-            "name": "爱看｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.appdm.akandm.com",
-                "dataKey": "uI1TkPJC8B46AyN3",
-                "dataIv": "uI1TkPJC8B46AyN3"
-            }
-        },
-        {
             "key": "八天",
             "name": "八天丨APP",
             "type": 3,
@@ -506,18 +461,6 @@
             }
         },
         {
-            "key": "狂人",
-            "name": "狂人丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.zjkrmv.vip",
-                "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU"
-            }
-        },
-        {
             "key": "驿站",
             "name": "驿站丨APP",
             "type": 3,
@@ -565,18 +508,6 @@
                 "dataKey": "2SWSPFxugBLPPOKo",
                 "dataIv": "2SWSPFxugBLPPOKo",
                 "version": "120"
-            }
-        },
-        {
-            "key": "丫丫",
-            "name": "丫丫｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://tv.yy-fun.cc",
-                "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl"
             }
         },
         {
@@ -724,7 +655,7 @@
             "name": "云播｜影视",
             "type": 3,
             "api": "csp_Tvyb",
-            "ext": "http://www.viptv01.com"
+            "ext": "http://www.viptv05.com"
         },
         {
             "key": "奇优影视",
@@ -776,7 +707,7 @@
             "name": "农民｜影视",
             "type": 3,
             "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn"
+            "ext": "https://vip.wwgz.cn:5200"
         },
         {
             "key": "爱看机器人",
