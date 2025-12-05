@@ -14,13 +14,6 @@
             "ext": "./XBPQ/哆啦新番社.json"
         },
         {
-            "key": "56动漫",
-            "name": "56｜动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/56动漫.js"
-        },
-        {
             "key": "Anime1",
             "name": "A1｜动漫",
             "type": 3,
