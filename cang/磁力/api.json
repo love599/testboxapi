@@ -50,6 +50,17 @@
             }
         },
         {
+            "key": "雪花",
+            "name": "雪花｜磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/雪花.json"
+        },
+        {
             "key": "80S",
             "name": "80S｜磁力",
             "type": 3,
