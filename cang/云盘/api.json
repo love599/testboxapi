@@ -344,8 +344,7 @@
             "key": "双星",
             "name": "双星｜4K",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/双星.js",
+            "api": "csp_ShuangXing",
             "style": {
                 "type": "list"
             }
@@ -476,6 +475,12 @@
             "name": "鬼鬼｜搜索",
             "type": 3,
             "api": "csp_GuiGui"
+        },
+        {
+            "key": "趣盘",
+            "name": "趣盘｜搜索",
+            "type": 3,
+            "api": "csp_QuPanSo"
         },
         {
             "key": "版本信息",
