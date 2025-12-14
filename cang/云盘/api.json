@@ -476,6 +476,12 @@
             "api": "csp_XiongDiPan"
         },
         {
+            "key": "天翼",
+            "name": "天翼｜搜索",
+            "type": 3,
+            "api": "csp_TianYiSo"
+        },
+        {
             "key": "趣盘",
             "name": "趣盘｜搜索",
             "type": 3,
