@@ -30,8 +30,7 @@
             "key": "呦呦DJ",
             "name": "呦呦｜DJ",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/呦呦DJ.js",
+            "api": "csp_Djuu",
             "style": {
                 "type": "list"
             }
@@ -239,6 +238,11 @@
         }
     ],
     "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Web"
+        },
         {
             "name": "虾米",
             "type": 0,
