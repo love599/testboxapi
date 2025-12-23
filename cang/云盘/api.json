@@ -365,6 +365,15 @@
             }
         },
         {
+            "key": "双星",
+            "name": "双星｜4K",
+            "type": 3,
+            "api": "csp_ShuangXing",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "阿里盘搜",
             "name": "阿里｜盘搜",
             "type": 3,
