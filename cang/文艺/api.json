@@ -113,8 +113,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩演唱会.json"
+                "json": "./json/哔哩哔哩演唱会.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -130,8 +130,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩听书.json"
+                "json": "./json/哔哩哔哩听书.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -147,8 +147,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩相声.json"
+                "json": "./json/哔哩哔哩相声.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -164,8 +164,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩小品.json"
+                "json": "./json/哔哩哔哩小品.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
@@ -181,8 +181,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩戏曲.json"
+                "json": "./json/哔哩哔哩戏曲.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
                 "type": "rect",
