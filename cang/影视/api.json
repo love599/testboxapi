@@ -187,6 +187,17 @@
             }
         },
         {
+            "key": "随看",
+            "name": "随看｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://suikan.tpmbt.cn",
+                "dataKey": "pHQsm6wjYaCuSPEz",
+                "dataIv": "pHQsm6wjYaCuSPEz"
+            }
+        },
+        {
             "key": "雨滴",
             "name": "雨滴｜APP",
             "type": 3,
