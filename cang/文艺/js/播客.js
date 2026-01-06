@@ -66,7 +66,7 @@ var rule = {
 			let iurl = pdfh(it, 'enclosure&&url');
 			return ititle + '$' + iurl
         }).join('#')
-        VOD.vod_play_from = '道长在线';
+        VOD.vod_play_from = '播客';
         VOD.vod_play_url = vod_play_url
 	`,
     搜索: '',
