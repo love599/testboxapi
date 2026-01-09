@@ -1,5 +1,5 @@
 {
-"spider":"./bfdb--cvdvds.png;md5;563f853b69db4a126037fae7e8bccf86","logo":"./logo.gif",
+"spider":"./bfdb--cvdvds.png;md5;136f1740be2dc541260bb79756e74b7d","logo":"./logo.gif",
 "sites":[
 {"name":"💬嗷嗚彈幕","key":"嗷嗚彈幕","type":3,"api":"csp_GoConfigAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
 {"name":"⚙️配置中心","key":"配置中心","type":3,"api":"csp_MyConfigAmns","searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
@@ -23,13 +23,14 @@
 "sites":"https://woog.nxog.eu.org","filters":"./json/woog.json"}},
 {"name":"🎉Bili","key":"Bili","type":3,"api":"csp_BiliAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":{"json":"./json/bili.json","cookie":""}},
 {"name":"🎬瓜子","key":"瓜子","type":3,"api":"csp_GuaziAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"./json/guazi.json"},
-{"name":"🎭杜北","key":"杜北","type":3,"api":"csp_DubkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"./json/dubk.json"},
+{"name":"☕韩剧","key":"韩剧","type":3,"api":"csp_HxqAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
 {"name":"🌱春天","key":"春天","type":3,"api":"csp_NewGrAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"aRzH1ANGAUTUF9FHBwAGAcJHV1GHwsdCgEaGEkRCgpWRFYKK0VXAEBYHQpQX1VHV1BJRR8NDUpOEWskXAQ4IwYzOSUxCjYzF1ERPTlKYipDeD8NPAsjIiUzBiETWywGEHR/QHYMUEhQDAFUXVAEIR8RPgYmfH9DAkMgDhEWLTMQQTU2SVVWRFZeVkdARQBGSEcwOCQWITUeKiAMEHxjBn1rNicKVhBCAiMSJERZPgIDYhBeEVACFC0ME1RdUBYPFQYQARVdQRpaQRsKUElVFQ8TCwkRBCsLG1dXUAkTAQABFSgFF0JURVhKBAkXWFMVVm4cBR8AVUxFEQoKWhEXHxhbSFxKSAEUUElVBR4BOhcYCQAOG0FfUAkTQEZeRwQPFAAACxEJBw1WCRBDAhNeRgQABQUOHQtFTkpAWkQDAlBO"},
 {"name":"🎪伊外","key":"伊外","type":3,"api":"csp_YIysAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
 {"name":"🎯荐片","key":"荐片","type":3,"api":"csp_JPianAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"./json/jpian.json"},
 {"name":"🔥热播","key":"热播","type":3,"api":"csp_RbysAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"http://v.rbotv.cn"},
 {"name":"🥇金牌","key":"金牌","type":3,"api":"csp_JinPaiAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
 {"name":"🍏小苹果","key":"小苹果","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+{"name":"🎭杜北","key":"杜北","type":3,"api":"csp_DubkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"./json/dubk.json"},
 {"name":"🍈爱瓜","key":"爱瓜","type":3,"api":"csp_AiGuaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
 {"name":"📹YOU视","key":"YOU视","type":3,"api":"csp_YouSPAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
 {"name":"🍕欧乐","key":"🍕欧乐","type":3,"api":"csp_OlyyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
