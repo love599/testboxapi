@@ -1,5 +1,5 @@
 {
-"spider":"./bfdb--cvdvds.png;md5;136f1740be2dc541260bb79756e74b7d","logo":"./logo.gif",
+"spider":"./bfdb--cvdvds.png;md5;c2f269f29492f0ae5a61e9753c9b3484","logo":"./logo.gif",
 "sites":[
 {"name":"💬嗷嗚彈幕","key":"嗷嗚彈幕","type":3,"api":"csp_GoConfigAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
 {"name":"⚙️配置中心","key":"配置中心","type":3,"api":"csp_MyConfigAmns","searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
