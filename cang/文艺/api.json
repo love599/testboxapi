@@ -36,16 +36,6 @@
             }
         },
         {
-            "key": "清风DJ",
-            "name": "清风｜DJ",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/清风DJ.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "蜻蜓FM",
             "name": "蜻蜓｜FM",
             "type": 3,
@@ -54,6 +44,12 @@
             "style": {
                 "type": "list"
             }
+        },
+        {
+            "key": "爱听音乐",
+            "name": "爱听｜音乐",
+            "type": 3,
+            "api": "./py/爱听音乐.py"
         },
         {
             "key": "六月听书",

@@ -24,6 +24,12 @@
             }
         },
         {
+            "key": "本地",
+            "name": "本地｜视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
+        {
             "key": "AList",
             "name": "AList｜合集",
             "type": 3,
