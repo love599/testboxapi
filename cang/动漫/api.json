@@ -31,6 +31,7 @@
             "key": "漫国动漫",
             "name": "漫国丨动漫",
             "type": 3,
+            "searchable": 1,
             "api": "csp_AppSy",
             "ext": {
                 "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
@@ -40,11 +41,22 @@
             }
         },
         {
-            "key": "卡卡",
+            "key": "云屋动漫",
+            "name": "云屋｜动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.yunwuee.icu",
+                "dataKey": "ygcnb9bdcmb8aeiw",
+                "dataIv": "ygcnb9bdcmb8aeiw"
+            }
+        },
+        {
+            "key": "卡卡动漫",
             "name": "卡卡｜动漫",
             "type": 3,
             "searchable": 1,
-            "changeable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://154.201.90.53:8002",
@@ -56,7 +68,7 @@
             "key": "丫丫动漫",
             "name": "丫丫｜动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://tv.yy-fun.cc",
@@ -68,7 +80,7 @@
             "key": "冬日动漫",
             "name": "冬日丨动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://www.drdm.fun",
@@ -80,7 +92,7 @@
             "key": "方舟动漫",
             "name": "方舟丨动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://www.cyfz.vip",
@@ -92,7 +104,7 @@
             "key": "元咲动漫",
             "name": "元咲丨动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://cic.aicg.fun",
@@ -104,7 +116,7 @@
             "key": "番薯动漫",
             "name": "番薯丨动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://new.app.bytegooty.com",
@@ -116,7 +128,7 @@
             "key": "曼波动漫",
             "name": "曼波｜动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://app.omofun1.top",
@@ -128,7 +140,7 @@
             "key": "咕咕动漫",
             "name": "咕咕｜动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://www.gugu3.com",
@@ -140,7 +152,7 @@
             "key": "米饭动漫",
             "name": "米饭｜动漫",
             "type": 3,
-            "quickSearch": 1,
+            "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://get.mymifun.com",
