@@ -222,6 +222,9 @@
             "changeable": 0
         }
     ],
+    "lives": [
+        {}
+    ],
     "parses": [
         {
             "name": "聚合",

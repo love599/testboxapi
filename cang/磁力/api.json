@@ -136,6 +136,9 @@
             "changeable": 0
         }
     ],
+    "lives": [
+        {}
+    ],
     "rules": [
         {
             "name": "磁力广告",

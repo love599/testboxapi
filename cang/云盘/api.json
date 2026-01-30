@@ -505,6 +505,9 @@
             "changeable": 0
         }
     ],
+    "lives": [
+        {}
+    ],
     "doh": [
         {
             "name": "Google",
