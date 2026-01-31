@@ -1,5 +1,5 @@
 {
-"spider":"./bfdb--cvdvds.png;md5;dd2294dc989b8845de48f30acc53f3da","logo":"./logo.gif",
+"spider":"./bfdb--cvdvds.png;md5;f2c41671f2e782b1c5cbf31dad8950fd","logo":"./logo.gif",
 "sites":[
 {"name":"💬嗷嗚|彈幕","key":"GoConfig","type":3,"api":"csp_GoConfigAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
 {"name":"🍉短剧|导航","key":"Hggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
