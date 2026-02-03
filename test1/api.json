@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar",
+  "spider": "./custom_spider.jar;md5;cbadb4eade1025a4f8c8d0583112d7b8",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "lives": [
 {"name":"develop202","type":0,"url":"https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
@@ -35,7 +35,14 @@
       "key": "设置",
       "name": "网弹|设置",
       "type": 3,
-      "api": "csp_Config"
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
     },
     {
       "key": "我的网盘",
@@ -225,6 +232,14 @@
       "name": "天翼|推送",
       "type": 4,
       "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+    },
+    {
+      "key": "茶壶",
+      "name": "茶壶|弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_HBCupfox"
     },
     {
       "key": "茉莉",
