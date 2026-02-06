@@ -2,15 +2,9 @@
 
 
 up:
-aowu:26.0204
-newwex:26.01.19
-xiaohuban:v14.5.9
+aowu:26.0206
+newwex:26.0206
+xiaohuban:v14.6
 
-
-
-### 如下都是潇洒
-xiaosa(tvbox):26.0205
-xiaosa(cang):26.0205
-
-xs-beta:26.0205
-xsc-beta:26.0205
+xiaosa:26.0206.1[单线路]
+xiaosac:26.0206.1[多线路]
