@@ -2,9 +2,9 @@
 
 
 up:
-aowu:26.0206
-newwex:26.0206
+aowu:26.0209
+newwex:26.0210
 xiaohuban:v14.6.2
 
-xiaosa:26.0208[单线路]
-xiaosac:26.0208[多线路]
+xiaosa:26.0209.1[单线路]
+xiaosac:26.0209.1[多线路]
