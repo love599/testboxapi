@@ -21,13 +21,6 @@
             "ext": "./js/Anime1.js"
         },
         {
-            "key": "NT动漫",
-            "name": "NT｜动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/NT动漫.js"
-        },
-        {
             "key": "漫国动漫",
             "name": "漫国丨动漫",
             "type": 3,
@@ -38,18 +31,6 @@
                 "siteKey": "rectangleadsadxa",
                 "listKey": "aassddwwxxllsx1x",
                 "parsesKey": "aassddwwxxllsx1x"
-            }
-        },
-        {
-            "key": "云屋动漫",
-            "name": "云屋｜动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.yunwuee.icu",
-                "dataKey": "ygcnb9bdcmb8aeiw",
-                "dataIv": "ygcnb9bdcmb8aeiw"
             }
         },
         {
