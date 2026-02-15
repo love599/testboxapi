@@ -1,6 +1,6 @@
 //     当前接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 {
-    "spider": "./bfdb--cvdvds.png;md5;713ec2a0f8fa320490270913c5c5ef34",
+    "spider": "./bfdb--cvdvds.png;md5;0d16af9a3381a6841955799a5a0ee6b1",
     "logo": "./logo.gif",
     "sites": [
         {
@@ -305,16 +305,6 @@
             "changeable": 1
         },
         {
-            "name": "🍎苹果|秒播",
-            "key": "Xpg",
-            "type": 3,
-            "api": "csp_XpgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "name": "🪁杜北|秒播",
             "key": "Dubk",
             "type": 3,
@@ -324,16 +314,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "./json/dubk.json"
-        },
-        {
-            "name": "👀注视|2K",
-            "key": "Gaze",
-            "type": 3,
-            "api": "csp_GazeAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "name": "🏆高端|2K",
