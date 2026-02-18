@@ -2,9 +2,9 @@
 
 
 up:
-aowu:26.0216
+aowu:26.0218
 newwex:26.0214
 xiaohuban:v14.6.5
 
-xiaosa:26.(v马年大吉)[单线路]
-xiaosac:26.(v马年大吉)[多线路]
+xiaosa:26.(v马跃千祥)[单线路]
+xiaosac:26.(v马跃千祥)[多线路]

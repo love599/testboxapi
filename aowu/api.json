@@ -1,6 +1,6 @@
 //     当前接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 {
-    "spider": "./bfdb--cvdvds.png;md5;0d16af9a3381a6841955799a5a0ee6b1",
+    "spider": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
     "logo": "./logo.gif",
     "sites": [
         {
@@ -527,7 +527,7 @@
         },
         {
             "name": "🛴推送|播放",
-            "key": "Push",
+            "key": "push_agent",
             "type": 3,
             "api": "csp_PushAmns",
             "searchable": 0,
