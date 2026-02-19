@@ -112,6 +112,12 @@
       "api": "csp_Duboku"
     },
     {
+      "key": "muxi",
+      "name": "人人|弹幕",
+      "type": 3,
+      "api": "csp_HBrenren"
+    },
+    {
       "key": "fishhxq",
       "name": "韩圈|弹幕",
       "type": 3,
@@ -267,6 +273,12 @@
       "ext": {
         "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
         "leijck": ""}
+    },
+    {
+      "key": "xunlei",
+      "name": "迅雷|推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=xunlei"
     },
     {
       "key": "123",
