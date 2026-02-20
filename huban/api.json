@@ -54,7 +54,7 @@
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
         }
-    ],
+  ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
