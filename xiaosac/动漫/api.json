@@ -34,18 +34,6 @@
             }
         },
         {
-            "key": "卡卡动漫",
-            "name": "卡卡｜动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://154.201.90.53:8002",
-                "dataKey": "123456789abcdefg",
-                "dataIv": "123456789abcdefg"
-            }
-        },
-        {
             "key": "丫丫动漫",
             "name": "丫丫｜动漫",
             "type": 3,
@@ -55,18 +43,6 @@
                 "url": "http://tv.yy-fun.cc",
                 "dataKey": "qkxnwkfjwpcnwycl",
                 "dataIv": "qkxnwkfjwpcnwycl"
-            }
-        },
-        {
-            "key": "冬日动漫",
-            "name": "冬日丨动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.drdm.fun",
-                "dataKey": "qE2nD0rL1lH4uP9r",
-                "dataIv": "qE2nD0rL1lH4uP9r"
             }
         },
         {

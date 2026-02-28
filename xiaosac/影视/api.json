@@ -100,6 +100,21 @@
             "ext": "https://www.zjcvod.com"
         },
         {
+            "key": "奇奇",
+            "name": "奇奇｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://110.42.67.221:8009",
+                "dataKey": "123456789abcdefg",
+                "dataIv": "123456789abcdefg",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
             "key": "老鹰",
             "name": "老鹰｜APP",
             "type": 3,
@@ -200,10 +215,9 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q16.txt",
-                "dataKey": "dj382hsyqp98kqn8",
-                "dataIv": "dj382hsyqp98kqn8",
-                "search": "mineInfo"
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q18.txt",
+                "dataKey": "fff32466kkf87666",
+                "dataIv": "fff32466kkf87666"
             }
         },
         {
