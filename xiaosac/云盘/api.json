@@ -108,9 +108,12 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://www.wogg.one",
+                    "http://www.wogg.lol",
+                    "https://wogg.xxooo.cf",
+                    "https://woggpan.888484.xyz",
                     "https://wogg.333232.xyz",
-                    "https://woggpan.888484.xyz"
+                    "http://woggpan.xxooo.cf",
+                    "https://www.wogg.one"
                 ]
             },
             "timeout": 60
@@ -243,10 +246,11 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://xhww.net",
-                    "https://erxiaofn.site",
-                    "https://erxiaofn.click",
-                    "https://www.xhww.net"
+                    "https://www.2xiaopan.top",
+                    "https://2xiaopan.top",
+                    "https://www.erxiaozhan.top",
+                    "https://www.2xiaozhan.top",
+                    "https://wexwp.cc"
                 ]
             },
             "timeout": 60
