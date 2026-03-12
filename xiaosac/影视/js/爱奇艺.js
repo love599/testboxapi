@@ -1,8 +1,8 @@
+//哈喽
 var rule = {
     title: '奇珍异兽[官]',
     host: 'https://www.iqiyi.com',
     homeUrl: '',
-    // detailUrl:'https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=fyid&size=2000&page=1',
     detailUrl: 'https://pcw-api.iqiyi.com/video/video/videoinfowithuser/fyid?agent_type=1&authcookie=&subkey=fyid&subscribe=1',
     searchUrl: 'https://search.video.iqiyi.com/o?if=html5&key=**&pageNum=fypage&pos=1&pageSize=24&site=iqiyi',
     searchable: 2,
@@ -1087,7 +1087,7 @@ var rule = {
                 'v': 33843
             }]
         }],
-        '5': [{
+        '35': [{
             'key': 'mode',
             'name': '综合排序',
             'value': [{
@@ -1124,36 +1124,6 @@ var rule = {
             }, {
                 'n': '2022',
                 'v': 2022
-            }, {
-                'n': '2021',
-                'v': 2021
-            }, {
-                'n': '2020',
-                'v': 2020
-            }, {
-                'n': '2019',
-                'v': 2019
-            }, {
-                'n': '2018',
-                'v': 2018
-            }, {
-                'n': '2017',
-                'v': 2017
-            }, {
-                'n': '2016-2011',
-                'v': '2011_2016'
-            }, {
-                'n': '2010-2000',
-                'v': '2000_2010'
-            }, {
-                'n': '90年代',
-                'v': '1990_1999'
-            }, {
-                'n': '80年代',
-                'v': '1980_1989'
-            }, {
-                'n': '更早',
-                'v': '1964_1979'
             }]
         }, {
             'key': 'is_purchase',
@@ -1170,105 +1140,42 @@ var rule = {
             }, {
                 'n': '付费',
                 'v': 2
-            }]
-        }, {
-            'key': 'three_category_id',
-            'name': '地区',
-            'value': [{
-                'n': '全部',
-                'v': ''
-            }, {
-                'n': '内地',
-                'v': 221
-            }, {
-                'n': '港台',
-                'v': 220
-            }, {
-                'n': '欧美',
-                'v': 219
-            }, {
-                'n': '日韩',
-                'v': 218
-            }, {
-                'n': '拉美',
-                'v': 217
-            }, {
-                'n': '亚洲地区',
-                'v': 216
-            }, {
-                'n': '非洲',
-                'v': 215
-            }]
-        }, {
-            'key': '18009',
-            'name': '语种',
-            'value': [{
-                'n': '全部',
-                'v': ''
-            }, {
-                'n': '普通话',
-                'v': 91
-            }, {
-                'n': '粤语',
-                'v': 92
-            }, {
-                'n': '闽南语',
-                'v': 93
-            }, {
-                'n': '英语',
-                'v': 94
-            }, {
-                'n': '日语',
-                'v': 95
-            }, {
-                'n': '韩语',
-                'v': 96
-            }, {
-                'n': '其它',
-                'v': 97
-            }]
-        }, {
-            'key': '23554',
-            'name': '音乐类型',
-            'value': [{
-                'n': '全部',
-                'v': ''
-            }, {
-                'n': '单曲MV',
-                'v': 23556
-            }, {
-                'n': '单曲现场',
-                'v': 23557
-            }, {
-                'n': '演唱会',
-                'v': 23558
-            }, {
-                'n': '新闻',
-                'v': 23559
-            }, {
-                'n': '访谈',
-                'v': 23560
-            }, {
-                'n': '音乐记录',
-                'v': 23561
-            }, {
-                'n': '音乐周边',
-                'v': 23562
-            }, {
-                'n': '音乐节目',
-                'v': 23563
-            }, {
-                'n': '影视原声',
-                'v': 23564
-            }, {
-                'n': '音乐短片',
-                'v': 23565
-            }, {
-                'n': '其他',
-                'v': 23566
             }]
         }],
-        '16': [{
+        '15': [{
+            'key': 'mode',
+            'name': '综合排序',
+            'value': [{
+                'n': '全部',
+                'v': ''
+            }, {
+                'n': '热播榜',
+                'v': 11
+            }, {
+                'n': '好评榜',
+                'v': 8
+            }, {
+                'n': '新上线',
+                'v': 4
+            }]
+        }, {
+            'key': 'is_purchase',
+            'name': '全部资费',
+            'value': [{
+                'n': '全部',
+                'v': ''
+            }, {
+                'n': '免费',
+                'v': 0
+            }, {
+                'n': '会员',
+                'v': 1
+            }, {
+                'n': '付费',
+                'v': 2
+            }]
+        }],
+        '37': [{
             'key': 'mode',
             'name': '综合排序',
             'value': [{
@@ -1305,36 +1212,6 @@ var rule = {
             }, {
                 'n': '2022',
                 'v': 2022
-            }, {
-                'n': '2021',
-                'v': 2021
-            }, {
-                'n': '2020',
-                'v': 2020
-            }, {
-                'n': '2019',
-                'v': 2019
-            }, {
-                'n': '2018',
-                'v': 2018
-            }, {
-                'n': '2017',
-                'v': 2017
-            }, {
-                'n': '2016-2011',
-                'v': '2011_2016'
-            }, {
-                'n': '2010-2000',
-                'v': '2000_2010'
-            }, {
-                'n': '90年代',
-                'v': '1990_1999'
-            }, {
-                'n': '80年代',
-                'v': '1980_1989'
-            }, {
-                'n': '更早',
-                'v': '1964_1979'
             }]
         }, {
             'key': 'is_purchase',
@@ -1352,33 +1229,38 @@ var rule = {
                 'n': '付费',
                 'v': 2
             }]
-        }, {
-            'key': '18061',
-            'name': '类型',
+        }],
+        '31': [{
+            'key': 'mode',
+            'name': '综合排序',
             'value': [{
                 'n': '全部',
                 'v': ''
             }, {
-                'n': '喜剧',
-                'v': 1296
+                'n': '热播榜',
+                'v': 11
             }, {
-                'n': '爱情',
-                'v': 1297
+                'n': '好评榜',
+                'v': 8
             }, {
-                'n': '动作',
-                'v': 1298
+                'n': '新上线',
+                'v': 4
+            }]
+        }, {
+            'key': 'is_purchase',
+            'name': '全部资费',
+            'value': [{
+                'n': '全部',
+                'v': ''
             }, {
-                'n': '奇幻',
-                'v': 1299
+                'n': '免费',
+                'v': 0
             }, {
-                'n': '惊悚',
-                'v': 1300
+                'n': '会员',
+                'v': 1
             }, {
-                'n': '悬疑',
-                'v': 1301
-            }, {
-                'n': '青春',
-                'v': 1302
+                'n': '付费',
+                'v': 2
             }]
         }]
     },
@@ -1390,8 +1272,8 @@ var rule = {
         'User-Agent': 'MOBILE_UA'
     },
     timeout: 5000,
-    class_name: '电影&电视剧&纪录片&动漫&综艺&音乐&网络电影',
-    class_url: '1&2&3&4&6&5&16',
+    class_name: '电视剧&短剧&电影&综艺&少儿&动漫&漫剧&纪录片&知识',
+    class_url: '2&35&1&6&15&4&37&3&31',
     limit: 20,
     play_parse: true,
     lazy: $js.toString(() => {
@@ -1437,13 +1319,13 @@ var rule = {
     // 一级:'json:.data.list;.name;.imageUrl;.latestOrder;.albumId',
     推荐: '',
     // 推荐:'js:let d=[];fetch_params.headers["user-agent"]=PC_UA;pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=fetch(HOST,fetch_params);let lists=pdfa(html,".qy-mod-li");lists.forEach(function(it){try{let title=pdfh(it,"p.sub&&title");let desc=pdfh(it,".qy-mod-label&&Text");let pic_url=pd(it,"img&&src");d.push({title:title,desc:desc,img:pic_url})}catch(e){}});res=setResult(d);',
-    一级: 'js:let d=[];if(MY_CATE==="16"){input=input.replace("channel_id=16","channel_id=1").split("three_category_id")[0];input+="three_category_id=27401"}else if(MY_CATE==="5"){input=input.replace("data_type=1","data_type=2")}let html=request(input);let json=JSON.parse(html);if(json.code==="A00003"){fetch_params.headers["user-agent"]=PC_UA;json=JSON.parse(fetch(input,fetch_params))}json.data.list.forEach(function(data){if(data.channelId===1){desc=data.hasOwnProperty("score")?data.score+"分\\t":""}else if(data.channelId===2||data.channelId===4){if(data.latestOrder===data.videoCount){desc=(data.hasOwnProperty("score")?data.score+"分\\t":"")+data.latestOrder+"集全"}else{if(data.videoCount){desc=(data.hasOwnProperty("score")?data.score+"分\\t":"")+data.latestOrder+"/"+data.videoCount+"集"}else{desc="更新至 "+data.latestOrder+"集"}}}else if(data.channelId===6){desc=data.period+"期"}else if(data.channelId===5){desc=data.focus}else{if(data.latestOrder){desc="更新至 第"+data.latestOrder+"期"}else if(data.period){desc=data.period}else{desc=data.focus}}url=MY_CATE+"$"+data.albumId;d.push({url:url,title:data.name,desc:desc,pic_url:data.imageUrl.replace(".jpg","_390_520.jpg?caplist=jpg,webp")})});setResult(d);',
+    一级: 'js:let d=[];if(MY_CATE==="1"){input=input.replace("search/recommend/list","search/video/videolists").replace("page_id=","pageNum=").replace("ret_num=48","pageSize=48")}let html=request(input);let json=JSON.parse(html);if(json.code==="A00003"){fetch_params.headers["user-agent"]=PC_UA;json=JSON.parse(fetch(input,fetch_params))}json.data.list.forEach(function(data){var vid=data.albumId||data.tvId;if(data.channelId===1){desc=data.score?data.score+"分\\t":"";if(data.duration)desc+=data.duration}else if(data.channelId===2||data.channelId===4||data.channelId===35||data.channelId===15||data.channelId===37){if(data.latestOrder===data.videoCount){desc=(data.score?data.score+"分\\t":"")+data.latestOrder+"集全"}else{if(data.videoCount){desc=(data.score?data.score+"分\\t":"")+data.latestOrder+"/"+data.videoCount+"集"}else if(data.latestOrder){desc="更新至 "+data.latestOrder+"集"}else{desc=data.focus||""}}}else if(data.channelId===6){desc=data.period+"期"}else{if(data.latestOrder){desc="更新至 第"+data.latestOrder+"期"}else if(data.period){desc=data.period}else{desc=data.focus||""}}url=MY_CATE+"$"+vid;d.push({url:url,title:data.name,desc:desc,pic_url:data.imageUrl.replace(".jpg","_390_520.jpg?caplist=jpg,webp")})});setResult(d);',
     // 一级:'js:let d=[];if(MY_CATE==="16"){input=input.replace("channel_id=16","channel_id=1").split("three_category_id")[0];input+="three_category_id=27401"}else if(MY_CATE==="5"){input=input.replace("data_type=1","data_type=2")}let html=fetch(input,fetch_params);let json=JSON.parse(html);if(json.code==="A00003"){fetch_params.headers["user-agent"]=PC_UA;json=JSON.parse(fetch(input,fetch_params))}json.data.list.forEach(function(data){if(data.channelId===1){desc=data.hasOwnProperty("score")?data.score+"分\\t":""}else if(data.channelId===2||data.channelId===4){if(data.latestOrder===data.videoCount){desc=(data.hasOwnProperty("score")?data.score+"分\\t":"")+data.latestOrder+"集全"}else{if(data.videoCount){desc=(data.hasOwnProperty("score")?data.score+"分\\t":"")+data.latestOrder+"/"+data.videoCount+"集"}else{desc="更新至 "+data.latestOrder+"集"}}}else if(data.channelId===6){desc=data.period+"期"}else if(data.channelId===5){desc=data.focus}else{if(data.latestOrder){desc="更新至 第"+data.latestOrder+"期"}else if(data.period){desc=data.period}else{desc=data.focus}}url=MY_CATE+"$"+data.albumId;d.push({url:url,title:data.name,desc:desc,pic_url:data.imageUrl.replace(".jpg","_390_520.jpg?caplist=jpg,webp")})});setResult(d);',
     // 一级:'json:.data.list;.name;.imageUrl;.playUrl;.latestOrder',
     // 二级:{is_json:1,"title":"data.title;data.moviecategory[0]+data.moviecategory[1]","img":"data.cdncover","desc":"data.area[0];data.director[0]","content":"data.description","tabs":"data.playlink_sites;data.playlinksdetail.#idv.quality","lists":"data.playlinksdetail.#idv.default_url"},
     // 二级:{is_json:1,"title":"data.name+data.subtitle;data.latestOrder","img":"data.imageUrl","desc":"data.categories;data.areas","content":"data.description","tabs":"data.name","lists":"data.playlinksdetail.#idv.default_url"},
     二级: '',
-    二级: 'js:let d=[];let html=request(input);let json=JSON.parse(html).data;VOD={vod_id:"",vod_url:input,vod_name:"",type_name:"",vod_actor:"",vod_year:"",vod_director:"",vod_area:"",vod_content:"",vod_remarks:"",vod_pic:""};VOD.vod_name=json.name;try{if(json.latestOrder){VOD.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+"\\n更新至：第"+json.latestOrder+"集(期)/共"+json.videoCount+"集(期)"}else{VOD.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+json.period}}catch(e){VOD.vod_remarks=json.subtitle}VOD.vod_area=(json.focus||"")+"\\n资费："+(json.payMark===1?"VIP":"免费")+"\\n地区："+(json.areas||"");let vsize="579_772";try{vsize=json.imageSize[12]}catch(e){}VOD.vod_pic=json.imageUrl.replace(".jpg","_"+vsize+".jpg?caplist=jpg,webp");VOD.type_name=json.categories.map(function(it){return it.name}).join(",");if(json.people.main_charactor){let vod_actors=[];json.people.main_charactor.forEach(function(it){vod_actors.push(it.name)});VOD.vod_actor=vod_actors.join(",")}VOD.vod_content=json.description;let playlists=[];if(json.channelId===1||json.channelId===5){playlists=[{playUrl:json.playUrl,imageUrl:json.imageUrl,shortTitle:json.shortTitle,focus:json.focus,period:json.period}]}else{if(json.channelId===6){let qs=json.period.split("-")[0];let listUrl="https://pcw-api.iqiyi.com/album/source/svlistinfo?cid=6&sourceid="+json.albumId+"&timelist="+qs;let playData=JSON.parse(request(listUrl)).data[qs];playData.forEach(function(it){playlists.push({playUrl:it.playUrl,imageUrl:it.imageUrl,shortTitle:it.shortTitle,focus:it.focus,period:it.period})})}else{let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page=1";let data=JSON.parse(request(listUrl)).data;let total=data.total;playlists=data.epsodelist;if(total>200){for(let i=2;i<total/200+1;i++){let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page="+i;let data=JSON.parse(request(listUrl)).data;playlists=playlists.concat(data.epsodelist)}}}}playlists.forEach(function(it){d.push({title:it.shortTitle||"第"+it.order+"集",desc:it.subtitle||it.focus||it.period,img:it.imageUrl.replace(".jpg","_480_270.jpg?caplist=jpg,webp"),url:it.playUrl})});VOD.vod_play_from="qiyi";VOD.vod_play_url=d.map(function(it){return it.title+"$"+it.url}).join("#");',
-    // 二级:'js:let d=[];let html=request(input);let json=JSON.parse(html).data;vod={vod_id:"",vod_url:input,vod_name:"",type_name:"",vod_actor:"",vod_year:"",vod_director:"",vod_area:"",vod_content:"",vod_remarks:"",vod_pic:""};vod.vod_name=json.name;try{if(json.latestOrder){vod.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+"\\n更新至：第"+json.latestOrder+"集(期)/共"+json.videoCount+"集(期)"}else{vod.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+json.period}}catch(e){vod.vod_remarks=json.subtitle}vod.vod_area=(json.focus||"")+"\\n资费："+(json.payMark===1?"VIP":"免费")+"\\n地区："+(json.areas||"");let vsize="579_772";try{vsize=json.imageSize[12]}catch(e){}vod.vod_pic=json.imageUrl.replace(".jpg","_"+vsize+".jpg?caplist=jpg,webp");vod.type_name=json.categories.map(function(it){return it.name}).join(",");if(json.people.main_charactor){vod_actors=[];json.people.main_charactor.forEach(function(it){vod_actors.push(it.name)});vod.vod_actor=vod_actors.join(",")}vod.vod_content=json.description;let playlists=[];if(json.channelId===1||json.channelId===5){playlists=[{playUrl:json.playUrl,imageUrl:json.imageUrl,shortTitle:json.shortTitle,focus:json.focus,period:json.period}]}else{if(json.channelId===6){let qs=json.period.split("-")[0];let listUrl="https://pcw-api.iqiyi.com/album/source/svlistinfo?cid=6&sourceid="+json.albumId+"&timelist="+qs;let playData=JSON.parse(request(listUrl)).data[qs];playData.forEach(function(it){playlists.push({playUrl:it.playUrl,imageUrl:it.imageUrl,shortTitle:it.shortTitle,focus:it.focus,period:it.period})})}else{let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page=1";let data=JSON.parse(request(listUrl)).data;let total=data.total;playlists=data.epsodelist;if(total>200){for(let i=2;i<total/200+1;i++){let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page="+i;let data=JSON.parse(request(listUrl)).data;playlists=playlists.concat(data.epsodelist)}}}}playlists.forEach(function(it){d.push({title:it.shortTitle||"第"+it.order+"集",desc:it.subtitle||it.focus||it.period,img:it.imageUrl.replace(".jpg","_480_270.jpg?caplist=jpg,webp"),url:it.playUrl})});vod.vod_play_from="qiyi";vod.vod_play_url=d.map(function(it){return it.title+"$"+it.url}).join("#");',
+    二级: 'js:let d=[];let html=request(input);let json=JSON.parse(html).data;VOD={vod_id:"",vod_url:input,vod_name:"",type_name:"",vod_actor:"",vod_year:"",vod_director:"",vod_area:"",vod_content:"",vod_remarks:"",vod_pic:""};VOD.vod_name=json.name;try{if(json.latestOrder){VOD.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+"\\n更新至：第"+json.latestOrder+"集(期)/共"+json.videoCount+"集(期)"}else{VOD.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+json.period}}catch(e){VOD.vod_remarks=json.subtitle}VOD.vod_area=(json.focus||"")+"\\n资费："+(json.payMark===1?"VIP":"免费")+"\\n地区："+(json.areas||"");let vsize="579_772";try{vsize=json.imageSize[12]}catch(e){}VOD.vod_pic=json.imageUrl.replace(".jpg","_"+vsize+".jpg?caplist=jpg,webp");VOD.type_name=json.categories.map(function(it){return it.name}).join(",");if(json.people.main_charactor){let vod_actors=[];json.people.main_charactor.forEach(function(it){vod_actors.push(it.name)});VOD.vod_actor=vod_actors.join(",")}VOD.vod_content=json.description;let playlists=[];if(json.channelId===1){playlists=[{playUrl:json.playUrl,imageUrl:json.imageUrl,shortTitle:json.shortTitle,focus:json.focus,period:json.period}]}else{if(json.channelId===6){let qs=json.period.split("-")[0];let listUrl="https://pcw-api.iqiyi.com/album/source/svlistinfo?cid=6&sourceid="+json.albumId+"&timelist="+qs;let playData=JSON.parse(request(listUrl)).data[qs];playData.forEach(function(it){playlists.push({playUrl:it.playUrl,imageUrl:it.imageUrl,shortTitle:it.shortTitle,focus:it.focus,period:it.period})})}else{let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page=1";let data=JSON.parse(request(listUrl)).data;let total=data.total;playlists=data.epsodelist;if(total>200){for(let i=2;i<total/200+1;i++){let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page="+i;let data=JSON.parse(request(listUrl)).data;playlists=playlists.concat(data.epsodelist)}}}}playlists.forEach(function(it){d.push({title:it.shortTitle||"第"+it.order+"集",desc:it.subtitle||it.focus||it.period,img:it.imageUrl.replace(".jpg","_480_270.jpg?caplist=jpg,webp"),url:it.playUrl})});VOD.vod_play_from="qiyi";VOD.vod_play_url=d.map(function(it){return it.title+"$"+it.url}).join("#");',
+    // 二级:'js:let d=[];let html=request(input);let json=JSON.parse(html).data;vod={vod_id:"",vod_url:input,vod_name:"",type_name:"",vod_actor:"",vod_year:"",vod_director:"",vod_area:"",vod_content:"",vod_remarks:"",vod_pic:""};vod.vod_name=json.name;try{if(json.latestOrder){vod.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+"\\n更新至：第"+json.latestOrder+"集(期)/共"+json.videoCount+"集(期)"}else{vod.vod_remarks="类型: "+(json.categories[0].name||"")+"\\t"+(json.categories[1].name||"")+"\\t"+(json.categories[2].name||"")+"\\t"+"评分："+(json.score||"")+json.period}}catch(e){vod.vod_remarks=json.subtitle}vod.vod_area=(json.focus||"")+"\\n资费："+(json.payMark===1?"VIP":"免费")+"\\n地区："+(json.areas||"");let vsize="579_772";try{vsize=json.imageSize[12]}catch(e){}vod.vod_pic=json.imageUrl.replace(".jpg","_"+vsize+".jpg?caplist=jpg,webp");vod.type_name=json.categories.map(function(it){return it.name}).join(",");if(json.people.main_charactor){vod_actors=[];json.people.main_charactor.forEach(function(it){vod_actors.push(it.name)});vod.vod_actor=vod_actors.join(",")}vod.vod_content=json.description;let playlists=[];if(json.channelId===1){playlists=[{playUrl:json.playUrl,imageUrl:json.imageUrl,shortTitle:json.shortTitle,focus:json.focus,period:json.period}]}else{if(json.channelId===6){let qs=json.period.split("-")[0];let listUrl="https://pcw-api.iqiyi.com/album/source/svlistinfo?cid=6&sourceid="+json.albumId+"&timelist="+qs;let playData=JSON.parse(request(listUrl)).data[qs];playData.forEach(function(it){playlists.push({playUrl:it.playUrl,imageUrl:it.imageUrl,shortTitle:it.shortTitle,focus:it.focus,period:it.period})})}else{let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page=1";let data=JSON.parse(request(listUrl)).data;let total=data.total;playlists=data.epsodelist;if(total>200){for(let i=2;i<total/200+1;i++){let listUrl="https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid="+json.albumId+"&size=200&page="+i;let data=JSON.parse(request(listUrl)).data;playlists=playlists.concat(data.epsodelist)}}}}playlists.forEach(function(it){d.push({title:it.shortTitle||"第"+it.order+"集",desc:it.subtitle||it.focus||it.period,img:it.imageUrl.replace(".jpg","_480_270.jpg?caplist=jpg,webp"),url:it.playUrl})});vod.vod_play_from="qiyi";vod.vod_play_url=d.map(function(it){return it.title+"$"+it.url}).join("#");',
     搜索: 'json:.data.docinfos;.albumDocInfo.albumTitle;.albumDocInfo.albumVImage;.albumDocInfo.channel;.albumDocInfo.albumId;.albumDocInfo.tvFocus',
 }
