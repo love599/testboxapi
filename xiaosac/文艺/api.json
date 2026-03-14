@@ -4,14 +4,10 @@
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
         {
-            "key": "播客",
-            "name": "播客｜综合",
+            "key": "网络直播",
+            "name": "网络｜直播",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/播客.js",
-            "style": {
-                "type": "list"
-            }
+            "api": "./py/网络直播.py"
         },
         {
             "key": "配置中心",
@@ -25,12 +21,6 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "网络直播",
-            "name": "网络｜直播",
-            "type": 3,
-            "api": "./py/网络直播.py"
         },
         {
             "key": "哔哩直播",
