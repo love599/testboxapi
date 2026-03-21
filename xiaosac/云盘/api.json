@@ -53,8 +53,7 @@
             "style": {
                 "type": "list",
                 "ratio": 1.433
-            },
-            "ext": "./json/aliShare.json"
+            }
         },
         {
             "key": "夸克云盘",
