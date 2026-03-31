@@ -1,6 +1,6 @@
-//     当前接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
+//     当前接口：https://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/config
 {
-    "spider": "./bfdb--cvdvds.png;md5;7f87f4a9f3d418ec3895f69286fb3443",
+    "spider": "./bfdb--cvdvds.png;md5;f3814561b2659e8da5d0349c17acb1f8",
     "logo": "./logo.gif",
     "sites": [
         {
@@ -14,30 +14,6 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "./json/douban.json"
-        },
-        {
-            "name": "😈嗷嗚|短剧|导航",
-            "key": "DjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "short_play"
-        },
-        {
-            "name": "🐲嗷嗚|漫剧|导航",
-            "key": "MjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "comic_series"
         },
         {
             "name": "⚙️配置|中心",
@@ -366,6 +342,28 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "name": "🐲嗷嗚|漫剧",
+            "key": "MjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "comic_series"
+        },
+        {
+            "name": "😈嗷嗚|短剧",
+            "key": "DjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "short_play"
         },
         {
             "name": "🍭豪堪|短剧",
